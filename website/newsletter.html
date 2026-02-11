@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsletter - Scott Schmitz</title>
+    <meta name="description"
+        content="Subscribe to Scott Schmitz's newsletter for the latest real estate systems tips and strategies.">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="site-header">
+        <div class="container header-container">
+            <nav class="site-nav">
+                <ul>
+                    <li><a href="index.html">CRM Secrets</a></li>
+                    <li><a href="crm_mastery.html">CRM Mastery</a></li>
+                    <li><a href="quick_picks.html">Quick Picks</a></li>
+                    <li><a href="resources.html">Resources</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </nav>
+            <button class="mobile-menu-toggle" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero-section squeeze-hero">
+            <div class="container hero-container">
+                <div class="hero-content">
+                    <h1>Join the <span class="highlight-text">Newsletter</span></h1>
+                    <p class="story-text">
+                        Get weekly insights, tips on real estate systems, and exclusive content delivered straight to
+                        your inbox. No spam, just value.
+                    </p>
+
+                </div>
+
+                <div class="hero-visual squeeze-form-container">
+                    <div class="opt-in-box">
+
+                        <form class="squeeze-form" action="#" method="POST">
+
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" id="email" name="email" placeholder="you@example.com" required>
+                            </div>
+                            <div style="text-align: center;">
+                                <button type="submit" class="btn btn-primary btn-block">Subscribe</button>
+                            </div>
+                            <p class="form-footer">We respect your privacy. Unsubscribe at any time. By connecting, you
+                                agree to our <a href="terms.html">Terms of Service</a>.</p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2026 Scott Schmitz. All rights reserved. Website designed by William Schmitz.</p>
+            <div class="footer-links">
+                <a href="newsletter.html">Newsletter</a>
+                <a href="contact.html">Contact</a>
+                <a href="faq.html">FAQ</a>
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        const toggle = document.querySelector('.mobile-menu-toggle');
+        const nav = document.querySelector('.site-nav');
+
+        if (toggle) {
+            toggle.addEventListener('click', () => {
+                nav.classList.toggle('active');
+            });
+        }
+    </script>
+</body>
+
+</html>

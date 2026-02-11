@@ -1,0 +1,20 @@
+# Real Estate CRM Secrets
+
+> The New Agent's Guide to Building Systems that Close Deals.
+
+## Pages
+
+- [Home / CRM Secrets](index.html): Main book landing page explaining the benefits of using a real estate specific CRM.
+- [CRM Mastery](crm_mastery.html): Advanced strategies for mastering your CRM.
+- [Quick Picks](quick_picks.html): Quick recommendations and picks for agents.
+- [Resources](resources.html): A hub for tools, guides, and insights to build better systems.
+- [Books](books.html): Details about the book series.
+- [Secrets](secrets.html): Tried-and-true strategies from 'Real Estate CRM Secrets'.
+- [Quotes](quotes.html): Wisdom and insights from industry leaders.
+- [FAQ](faq.html): Frequently asked questions about CRM and the book series.
+- [Recommended Reading](recommended_reading.html): Curated list of books and resources for real estate success.
+- [About](about.html): About the author.
+- [Contact](contact.html): Contact form for inquiries.
+- [Newsletter](newsletter.html): Subscribe to the newsletter.
+- [Privacy Policy](privacy.html): Our privacy policy.
+- [Terms of Service](terms.html): Our terms of service.

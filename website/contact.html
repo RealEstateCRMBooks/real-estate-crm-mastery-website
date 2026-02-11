@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Scott Schmitz - Real Estate Systems Expert</title>
+    <meta name="description"
+        content="Get in touch with Scott Schmitz regarding his books, RealtyJuggler CRM, or speaking engagements.">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap"
+        rel="stylesheet">
+    <script type="application/ld+json">
+    [{
+      "@context": "https://schema.org",
+      "@type": "ContactPage",
+      "name": "Contact Scott Schmitz",
+      "description": "Contact page for Scott Schmitz, Real Estate Systems Expert."
+    }, {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Scott Schmitz",
+      "url": "https://realestatecrmsecrets.com",
+      "sameAs": [
+        "https://www.linkedin.com/in/scott-schmitz", 
+        "https://twitter.com/realtyjuggler"
+      ]
+    }, {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://realestatecrmsecrets.com/index.html"
+      }, {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Contact",
+        "item": "https://realestatecrmsecrets.com/contact.html"
+      }]
+    }]
+    </script>
+</head>
+
+<body>
+
+    <header class="site-header">
+        <div class="container header-container">
+            <nav class="site-nav">
+                <ul>
+                    <li><a href="index.html">CRM Secrets</a></li>
+                    <li><a href="crm_mastery.html">CRM Mastery</a></li>
+                    <li><a href="quick_picks.html">Quick Picks</a></li>
+                    <li><a href="resources.html">Resources</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </nav>
+            <button class="mobile-menu-toggle" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero-section contact-hero">
+            <div class="container hero-container key-visual">
+                <div class="hero-content">
+                    <h1>Get in Touch</h1>
+                    <p class="hero-subtitle">Have questions about my books or RealtyJuggler? I'd love to hear from you.
+                    </p>
+
+                    <div class="opt-in-box contact-box">
+                        <form action="https://formspree.io/f/xbdrwaob" method="POST">
+                            <div class="form-group">
+                                <label for="name">Name</label>
+                                <input type="text" id="name" name="name" placeholder="Your Name" required minlength="2"
+                                    maxlength="100">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" id="email" name="email" placeholder="Your Email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="message">Message</label>
+                                <textarea id="message" name="message" rows="5" placeholder="How can I help you?"
+                                    required minlength="10" maxlength="3000"></textarea>
+                                <div id="char-count"
+                                    style="font-size: 0.85rem; color: #666; margin-top: 5px; text-align: right;">
+                                    <span id="current">0</span>/<span id="maximum">3000</span> characters (Min: 10)
+                                </div>
+                            </div>
+
+                            <!-- Spam Protection: Honeypot field (hidden) -->
+                            <input type="text" name="_gotcha" style="display:none">
+
+                            <!-- Hidden input for subject line in email -->
+                            <input type="hidden" name="_subject" value="New submission from contact form!">
+
+                            <button type="submit" class="btn btn-primary btn-block btn-large">Send Message</button>
+                        </form>
+                    </div>
+
+                </div>
+                <div class="hero-visual">
+
+                    <div
+                        style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+                        <h3>Other Ways to Connect</h3>
+                        <p style="margin-top: 1rem; color: var(--light-text-color);">
+                            <strong>Email:</strong><br>
+                            <a href="mailto:scott@realtyjuggler.com"
+                                style="color: var(--accent-color);">scott@realtyjuggler.com</a>
+                        </p>
+                        <p style="margin-top: 1rem; color: var(--light-text-color);">
+                            <strong>RealtyJuggler Support:</strong><br>
+                            <a href="https://www.realtyjuggler.com" target="_blank"
+                                style="color: var(--accent-color);">Visit RealtyJuggler.com</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2026 Scott Schmitz. All rights reserved. Website designed by William Schmitz.</p>
+            <div class="footer-links">
+                <a href="newsletter.html">Newsletter</a>
+                <a href="contact.html">Contact</a>
+                <a href="faq.html">FAQ</a>
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        const toggle = document.querySelector('.mobile-menu-toggle');
+        const nav = document.querySelector('.site-nav');
+
+        if (toggle) {
+            toggle.addEventListener('click', () => {
+                nav.classList.toggle('active');
+            });
+        }
+
+        // Character Counter & Validation Logic
+        const messageInput = document.getElementById('message');
+        const currentCount = document.getElementById('current');
+        const charCountText = document.getElementById('char-count');
+        const submitBtn = document.querySelector('button[type="submit"]');
+        const MIN_CHARS = 10;
+        const MAX_CHARS = 3000;
+
+        function updateCharacterCount() {
+            const length = messageInput.value.length;
+            currentCount.textContent = length;
+
+            // Visual feedback logic
+            if (length < MIN_CHARS) {
+                // Too short - show as warning/invalid
+                charCountText.style.color = '#dc3545'; // Red color
+                messageInput.style.borderColor = '#dc3545';
+            } else {
+                // Valid length - show as good
+                charCountText.style.color = '#28a745'; // Green color
+                messageInput.style.borderColor = '#ddd'; // Reset to default (or green if you prefer)
+            }
+        }
+
+        // Initialize on load (in case browser remembers text)
+        updateCharacterCount();
+
+        // Listen for typing
+        messageInput.addEventListener('input', updateCharacterCount);
+    </script>
+</body>
+
+</html>

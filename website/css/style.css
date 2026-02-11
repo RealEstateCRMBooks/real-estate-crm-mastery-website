@@ -1,0 +1,1141 @@
+/* CSS Variables */
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #e74c3c;
+    --accent-color: #3498db;
+    --background-color: #ffffff;
+    --text-color: #333333;
+    --light-text-color: #666666;
+    --border-color: #eeeeee;
+    --header-height: 70px;
+
+    --font-heading: 'Inter', sans-serif;
+    --font-body: 'Merriweather', serif;
+}
+
+/* Reset & Base Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-heading);
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    line-height: 1.2;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s ease;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Utility Classes */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+
+/* Header & Navigation */
+.site-header {
+    background-color: #ffffff;
+    height: var(--header-height);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.logo a {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--primary-color);
+}
+
+.site-nav ul {
+    display: flex;
+    gap: 2rem;
+}
+
+.site-nav a {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--text-color);
+}
+
+.site-nav a.active {
+    color: var(--secondary-color);
+    font-weight: 700;
+}
+
+.site-nav a:hover {
+    color: var(--accent-color);
+}
+
+/* Mobile Menu Toggle */
+.mobile-menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.mobile-menu-toggle .bar {
+    width: 25px;
+    height: 3px;
+    background-color: var(--text-color);
+    border-radius: 2px;
+}
+
+/* Hero Section */
+.hero-section {
+    background-color: #f4f6f7;
+    padding: 5rem 0;
+}
+
+.hero-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: center;
+}
+
+.hero-content h1 {
+    font-size: 5rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    color: var(--light-text-color);
+    margin-bottom: 2rem;
+    max-width: 550px;
+}
+
+.visual-placeholder,
+.author-photo {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    display: block;
+    margin: 0 auto;
+}
+
+.visual-placeholder {
+    height: 400px;
+    background-color: #dcdcdc;
+    /* Slightly darker than bg */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #7f8c8d;
+    font-weight: 600;
+    font-size: 1.2rem;
+    border: 2px dashed #bdc3c7;
+}
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    padding: 0.9rem 2rem;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: var(--secondary-color);
+    color: #ffffff;
+    box-shadow: 0 4px 6px rgba(231, 76, 60, 0.2);
+}
+
+.btn-primary:hover {
+    background-color: #c0392b;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(231, 76, 60, 0.3);
+}
+
+.btn-secondary {
+    background-color: var(--primary-color);
+    color: #ffffff;
+    box-shadow: 0 4px 6px rgba(44, 62, 80, 0.2);
+}
+
+.btn-secondary:hover {
+    background-color: #34495e;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(44, 62, 80, 0.3);
+}
+
+.btn.disabled {
+    background-color: #f0f2f5;
+    border-color: #d1d9e0;
+    color: #a0aec0;
+    cursor: default;
+    pointer-events: none;
+    box-shadow: none;
+    transform: none !important;
+}
+
+/* Authority Bar */
+.authority-bar {
+    background-color: #ffffff;
+    padding: 1.5rem 0;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.authority-bar p {
+    font-size: 1rem;
+    color: var(--light-text-color);
+    margin: 0;
+}
+
+/* Social Proof */
+.social-proof {
+    padding: 4rem 0;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.stat-item {
+    display: inline-block;
+}
+
+.stat-number {
+    display: block;
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    line-height: 1.1;
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    font-size: 1.1rem;
+    color: var(--text-color);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Featured Book */
+.featured-book {
+    padding: 6rem 0;
+    background-color: #f8f9fa;
+    /* Light grey bg to differentiate */
+}
+
+.book-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5rem;
+    align-items: center;
+    margin-bottom: 5rem;
+    padding-bottom: 5rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.book-container:last-of-type {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.book-cover-placeholder {
+    width: 100%;
+    max-width: 380px;
+    height: 580px;
+    background-color: #2c3e50;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+    margin: 0 auto;
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+}
+
+.book-details h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary-color);
+}
+
+.tag {
+    display: inline-block;
+    background-color: var(--accent-color);
+    color: #fff;
+    padding: 0.35rem 0.85rem;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.book-details p {
+    font-size: 1.15rem;
+    color: var(--light-text-color);
+    margin-bottom: 2.5rem;
+    max-width: 500px;
+}
+
+/* Footer */
+.site-footer {
+    background-color: #f8f9fa;
+    padding: 2rem 0;
+    border-top: 1px solid var(--border-color);
+    margin-top: auto;
+}
+
+.site-footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.site-footer p {
+    font-size: 0.9rem;
+    color: var(--light-text-color);
+}
+
+.footer-links {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.footer-links a {
+    font-size: 0.9rem;
+    color: var(--light-text-color);
+}
+
+.footer-links a:hover {
+    color: var(--primary-color);
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .mobile-menu-toggle {
+        display: flex;
+    }
+
+    .site-nav {
+        position: absolute;
+        top: var(--header-height);
+        left: 0;
+        width: 100%;
+        background-color: #ffffff;
+        padding: 1rem 0;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+        display: none;
+    }
+
+    .site-nav.active {
+        display: block;
+    }
+
+    .site-nav ul {
+        flex-direction: column;
+        align-items: center;
+        gap: 1.5rem;
+    }
+
+    .site-footer .container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    /* Homepage Responsive */
+    .hero-container,
+    .book-container {
+        grid-template-columns: 1fr;
+        text-align: left;
+        gap: 2rem;
+    }
+
+    .hero-section {
+        padding: 3rem 0;
+    }
+
+    .hero-content {
+        order: 1;
+        /* Content first */
+    }
+
+    .hero-visual {
+        order: 2;
+        margin-top: 1rem;
+    }
+
+    .hero-content h1 {
+        font-size: 2.5rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.1rem;
+    }
+
+    .book-cover {
+        order: 1;
+    }
+
+    .book-details {
+        order: 2;
+    }
+
+
+}
+
+/* Vertical Hero Layout (for resources.html) */
+.hero-container.hero-vertical {
+    grid-template-columns: 1fr;
+    text-align: left;
+    gap: 2rem;
+}
+
+.hero-vertical .hero-content {
+    order: 1;
+}
+
+.hero-vertical .hero-visual {
+    order: 2;
+    margin-top: 1rem;
+}
+
+.hero-vertical .hero-content h1 {
+    font-size: 2.5rem;
+}
+
+
+
+/* Vertical Book Layout (for books.html) */
+.book-container.book-vertical {
+    grid-template-columns: 1fr;
+    text-align: left;
+    gap: 3rem;
+}
+
+.book-vertical .book-cover {
+    order: 1;
+}
+
+.book-vertical .book-details {
+    order: 2;
+}
+
+
+
+.book-vertical .book-actions {
+    justify-content: flex-start;
+}
+
+.book-vertical .book-details ul {
+    text-align: left;
+    /* display: inline-block; Removed centering hack */
+    max-width: 500px;
+    /* margin-left: auto; margin-right: auto; Removed for left align */
+}
+
+.book-vertical .book-meta blockquote {
+    /* margin-left: auto; margin-right: auto; Removed for left align */
+    max-width: 600px;
+    text-align: left;
+}
+
+/* Updated Book Layout Styles */
+.book-cover-image {
+    width: 100%;
+    max-width: 380px;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+    margin: 0 auto;
+}
+
+.book-subtitle {
+    font-size: 1.25rem;
+    color: var(--light-text-color);
+    margin-bottom: 1.5rem;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.book-price {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.book-description {
+    margin-bottom: 2.5rem;
+    color: var(--light-text-color);
+    font-size: 1.05rem;
+}
+
+.book-description p {
+    margin-bottom: 1rem;
+}
+
+.book-inside-title {
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+.book-inside-list {
+    list-style: disc;
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.testimonial-quote {
+    border-left: 4px solid var(--accent-color);
+    padding-left: 1rem;
+    font-style: italic;
+    color: var(--light-text-color);
+    margin-bottom: 1.5rem;
+}
+
+.testimonial-author {
+    font-weight: 600;
+    color: var(--primary-color);
+    font-style: normal;
+    font-size: 0.9rem;
+}
+
+.sample-chapter-section {
+    text-align: center;
+    margin-top: 5rem;
+    padding-top: 3rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.sample-chapter-text {
+    margin-bottom: 1.5rem;
+    color: var(--light-text-color);
+}
+
+.sample-chapter-centered {
+    text-align: center;
+    margin: 3rem auto;
+    max-width: 600px;
+}
+
+.sample-chapter-centered h4 {
+    font-size: 1.5rem;
+    margin-bottom: 1.25rem;
+    color: var(--primary-color);
+}
+
+.btn-outline {
+    background-color: transparent;
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+}
+
+.btn-outline:hover {
+    background-color: var(--primary-color);
+    color: #ffffff;
+}
+
+
+/* About Page Styles */
+.about-text p {
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+    color: var(--light-text-color);
+    line-height: 1.8;
+}
+
+.story-text {
+    font-size: 1.25rem;
+    line-height: 1.8;
+    color: var(--light-text-color);
+}
+
+.story-opening {
+    float: left;
+    font-size: 2.5rem;
+    line-height: 0.8;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-right: 1rem;
+    margin-bottom: -0.2rem;
+    margin-top: 0.2rem;
+}
+
+/* =========================================
+   Squeeze Page Styles (resources.html)
+   ========================================= */
+
+.squeeze-header .header-container {
+    justify-content: center;
+}
+
+.squeeze-hero {
+    padding: 3rem 0;
+    background: linear-gradient(135deg, #f4f6f7 0%, #ffffff 100%);
+}
+
+.squeeze-hero .hero-container {
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 2rem;
+}
+
+.squeeze-hero .hero-content h1 {
+    margin-bottom: 0;
+    /* Remove excess margin since it's just the headline now */
+}
+
+.highlight-text {
+    color: var(--secondary-color);
+}
+
+.squeeze-benefits {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.squeeze-benefits li {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    color: var(--text-color);
+}
+
+.squeeze-benefits .icon {
+    font-size: 1.2rem;
+}
+
+/* Opt-in Box */
+.opt-in-box {
+    background-color: #ffffff;
+    padding: 2.5rem;
+    border-radius: 12px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    border: 1px solid var(--border-color);
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.opt-in-box.contact-box {
+    max-width: 100%;
+    margin: 0;
+    padding: 2rem;
+}
+
+.opt-in-box h3 {
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+.form-instruction {
+    text-align: center;
+    color: var(--light-text-color);
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    color: var(--text-color);
+    font-size: 0.9rem;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 0.9rem;
+    border: 2px solid var(--border-color);
+    border-radius: 6px;
+    font-size: 1rem;
+    font-family: var(--font-heading);
+    transition: border-color 0.3s;
+}
+
+.form-group textarea {
+    resize: vertical;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--accent-color);
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+.btn-large {
+    font-size: 1.1rem;
+    padding: 1rem 1.5rem;
+}
+
+.form-footer {
+    text-align: center;
+    font-size: 0.8rem;
+    color: #999;
+    margin-top: 1rem;
+}
+
+/* Squeeze Social Proof */
+.squeeze-proof {
+    padding: 2rem 0;
+    background-color: #f8f9fa;
+    border-top: 1px solid var(--border-color);
+}
+
+.proof-text {
+    font-size: 1.2rem;
+    color: var(--text-color);
+}
+
+/* Squeeze Footer */
+.squeeze-footer .container {
+    justify-content: center;
+}
+
+/* Resource Section Styles */
+.resource-section {
+    padding: 3rem 0;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.resource-section h2 {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.resource-section:last-of-type {
+    border-bottom: none;
+}
+
+/* Contact Page Vertical Layout */
+.contact-hero .hero-container {
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 3rem;
+    justify-items: center;
+    /* Center grid items */
+}
+
+.contact-hero .hero-content {
+    width: 100%;
+    max-width: 700px;
+    /* Constrain width for readability */
+    margin: 0 auto;
+}
+
+.contact-hero .hero-subtitle {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact-hero .opt-in-box.contact-box {
+    margin: 2rem auto 0;
+    max-width: 600px;
+    text-align: left;
+    /* Keep form internals left-aligned */
+}
+
+.contact-hero .hero-visual {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-hero .hero-visual>div {
+    /* The internal white box */
+    text-align: center;
+    /* keep context centered or left? "Other ways..." centered usually looks ok */
+}
+
+/* Recommended Reading Grid */
+.reading-list-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+    padding: 2rem 0;
+}
+
+.book-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    padding: 1.5rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+
+
+.book-card-image-placeholder {
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    background-color: #f0f2f5;
+    border: 2px dashed #cbd5e0;
+    border-radius: 4px;
+    margin-bottom: 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #a0aec0;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.book-card-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+    font-family: var(--font-heading);
+    line-height: 1.35;
+}
+
+.book-card-author {
+    font-size: 0.95rem;
+    color: var(--text-color);
+    margin-bottom: 0.5rem;
+    font-style: italic;
+}
+
+.book-card-year {
+    font-size: 0.85rem;
+    color: var(--light-text-color);
+    margin-top: auto;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background-color: #f8f9fa;
+    border-radius: 50px;
+    align-self: flex-start;
+}
+
+.book-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    height: 100%;
+}
+
+.book-card-link:hover .book-card {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    border-color: var(--primary-color);
+}
+
+.book-card-image {
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Compact Grid for Resources Page */
+.compact-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+}
+
+.compact-grid .book-card {
+    padding: 1rem;
+}
+
+.compact-grid .book-card-title {
+    font-size: 1rem;
+}
+
+.compact-grid .book-card-image {
+    margin-bottom: 0.75rem;
+}
+
+/* Secrets Grid */
+.secrets-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    padding-bottom: 3rem;
+}
+
+/* Secret Item Layout - Flexbox for Footer Alignment */
+.secret-item {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--border-color);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.secret-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-color: var(--accent-color);
+}
+
+.secret-item h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #f4f6f7;
+}
+
+.secret-name {
+    color: var(--secondary-color);
+}
+
+.secret-item p {
+    font-size: 1rem;
+    color: var(--light-text-color);
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+/* Secret Source Structure */
+.secret-source {
+    margin-top: auto;
+    padding-top: 1.5rem;
+    border-top: 1px solid #f4f6f7;
+    margin-top: 1.5rem;
+}
+
+.source-book {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 0.25rem;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.source-context {
+    font-size: 0.85rem;
+    color: var(--light-text-color);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+    margin-top: 0.5rem;
+}
+
+.source-chapter,
+.source-section {
+    display: block;
+    line-height: 1.4;
+}
+
+.source-chapter {
+    font-weight: 500;
+}
+
+.source-separator {
+    display: none;
+}
+
+.source-section {
+    font-style: italic;
+}
+
+/* Quotes Section Styles */
+.quotes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    padding-bottom: 3rem;
+}
+
+.quote-item {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--border-color);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.quote-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-color: var(--accent-color);
+}
+
+.quote-text {
+    font-size: 1.15rem;
+    font-style: italic;
+    color: var(--text-color);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    font-family: var(--font-body);
+    font-weight: 400;
+}
+
+.quote-author {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.quote-author::before {
+    content: "";
+    width: 20px;
+    height: 1px;
+    background-color: var(--border-color);
+    display: inline-block;
+}
+
+.quote-category {
+    display: none;
+}
+
+/* Resource Hub & Cards */
+.resource-hub {
+    padding: 4rem 0;
+    background-color: #f8f9fa;
+}
+
+.resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.resource-card {
+    background: #ffffff;
+    padding: 2.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.resource-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    border-color: var(--accent-color);
+}
+
+.resource-icon {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.resource-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.resource-card p {
+    color: var(--light-text-color);
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.btn-text {
+    font-weight: 700;
+    color: var(--secondary-color);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.85rem;
+}
+
+@media (max-width: 768px) {
+    .resource-grid {
+        grid-template-columns: 1fr;
+    }
+}
