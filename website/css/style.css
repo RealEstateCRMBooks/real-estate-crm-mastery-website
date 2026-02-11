@@ -281,7 +281,7 @@ img {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 5rem;
-    align-items: center;
+    align-items: start;
     margin-bottom: 5rem;
     padding-bottom: 5rem;
     border-bottom: 1px solid var(--border-color);
