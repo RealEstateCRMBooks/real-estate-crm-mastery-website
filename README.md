@@ -1,5 +1,5 @@
-# RealEstateCRMSeries
-Contains the website and resources for the Real Estate CRM Series.
+# Real Estate CRM Mastery Website
+Contains the website and resources for the Real Estate CRM Mastery book.
 
 # License
 The source code for this website is licensed under the MIT License.
