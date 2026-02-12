@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:0c8d876d-34d1-4269-8480-cbbf1a6e31fc" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>UNTITLED</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Real Estate CRM Mastery</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#real-estate-crm-mastery" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#copyright" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="text/ch003.xhtml#dedication" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="text/ch004.xhtml#table-of-contents" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="text/ch005.xhtml#acknowledgements" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="text/ch006.xhtml#introduction" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>Finding Your Perfect CRM</text>
+      </navLabel>
+      <content src="text/ch007.xhtml#finding-your-perfect-crm" />
+      <navPoint id="navPoint-8">
+        <navLabel>
+          <text>Real Estate CRM Benefits</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#real-estate-crm-benefits" />
+      </navPoint>
+      <navPoint id="navPoint-9">
+        <navLabel>
+          <text>How to Pick a CRM</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#how-to-pick-a-crm" />
+      </navPoint>
+      <navPoint id="navPoint-10">
+        <navLabel>
+          <text>CRM Dangers &amp; Pitfalls</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#crm-dangers-pitfalls" />
+      </navPoint>
+      <navPoint id="navPoint-11">
+        <navLabel>
+          <text>CRM Quick Pick List</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#crm-quick-pick-list" />
+      </navPoint>
+      <navPoint id="navPoint-12">
+        <navLabel>
+          <text>Your Broker’s CRM</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#your-brokers-crm" />
+      </navPoint>
+      <navPoint id="navPoint-13">
+        <navLabel>
+          <text>Changing your CRM</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#changing-your-crm" />
+        <navPoint id="navPoint-14">
+          <navLabel>
+            <text>Lynn Ganster</text>
+          </navLabel>
+          <content src="text/ch007.xhtml#lynn-ganster" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>Harnessing the Power of your CRM</text>
+      </navLabel>
+      <content src="text/ch008.xhtml#harnessing-the-power-of-your-crm" />
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>Database Hygiene</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#database-hygiene" />
+      </navPoint>
+      <navPoint id="navPoint-17">
+        <navLabel>
+          <text>Sync vs Import</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#sync-vs-import" />
+      </navPoint>
+      <navPoint id="navPoint-18">
+        <navLabel>
+          <text>Automations</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#automations" />
+      </navPoint>
+      <navPoint id="navPoint-19">
+        <navLabel>
+          <text>Goals</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#goals" />
+      </navPoint>
+      <navPoint id="navPoint-20">
+        <navLabel>
+          <text>Coaches</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#coaches" />
+        <navPoint id="navPoint-21">
+          <navLabel>
+            <text>Darci LaRocque</text>
+          </navLabel>
+          <content src="text/ch008.xhtml#darci-larocque" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-22">
+        <navLabel>
+          <text>Hiring an Assistant</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#hiring-an-assistant" />
+        <navPoint id="navPoint-23">
+          <navLabel>
+            <text>Jenny Carlson</text>
+          </navLabel>
+          <content src="text/ch008.xhtml#jenny-carlson" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+          <text>Working with a Partner</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#working-with-a-partner" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25">
+      <navLabel>
+        <text>From Generalist to Specialist</text>
+      </navLabel>
+      <content src="text/ch009.xhtml#from-generalist-to-specialist" />
+      <navPoint id="navPoint-26">
+        <navLabel>
+          <text>Real Estate Investors</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#real-estate-investors" />
+      </navPoint>
+      <navPoint id="navPoint-27">
+        <navLabel>
+          <text>Rentals</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#rentals" />
+      </navPoint>
+      <navPoint id="navPoint-28">
+        <navLabel>
+          <text>Vacation Homes</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#vacation-homes" />
+      </navPoint>
+      <navPoint id="navPoint-29">
+        <navLabel>
+          <text>Veterans &amp; Active Military</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#veterans-active-military" />
+      </navPoint>
+      <navPoint id="navPoint-30">
+        <navLabel>
+          <text>Short Sales</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#short-sales" />
+      </navPoint>
+      <navPoint id="navPoint-31">
+        <navLabel>
+          <text>Real Estate Seminars</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#real-estate-seminars" />
+      </navPoint>
+      <navPoint id="navPoint-32">
+        <navLabel>
+          <text>Commercial Real Estate</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#commercial-real-estate" />
+        <navPoint id="navPoint-33">
+          <navLabel>
+            <text>Zahid Moghal</text>
+          </navLabel>
+          <content src="text/ch009.xhtml#zahid-moghal" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34">
+      <navLabel>
+        <text>Life Changes, Real Estate Gains</text>
+      </navLabel>
+      <content src="text/ch010.xhtml#life-changes-real-estate-gains" />
+      <navPoint id="navPoint-35">
+        <navLabel>
+          <text>Marriage</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#marriage" />
+      </navPoint>
+      <navPoint id="navPoint-36">
+        <navLabel>
+          <text>Job Changes</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#job-changes" />
+      </navPoint>
+      <navPoint id="navPoint-37">
+        <navLabel>
+          <text>Divorce</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#divorce" />
+      </navPoint>
+      <navPoint id="navPoint-38">
+        <navLabel>
+          <text>Probate Real Estate</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#probate-real-estate" />
+      </navPoint>
+      <navPoint id="navPoint-39">
+        <navLabel>
+          <text>Upsizing and Downsizing</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#upsizing-and-downsizing" />
+      </navPoint>
+      <navPoint id="navPoint-40">
+        <navLabel>
+          <text>Our Furry Friends</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#our-furry-friends" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-41">
+      <navLabel>
+        <text>Fueling the Funnel</text>
+      </navLabel>
+      <content src="text/ch011.xhtml#fueling-the-funnel" />
+      <navPoint id="navPoint-42">
+        <navLabel>
+          <text>Your Own Website</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#your-own-website" />
+      </navPoint>
+      <navPoint id="navPoint-43">
+        <navLabel>
+          <text>Paid Lead Sources</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#paid-lead-sources" />
+      </navPoint>
+      <navPoint id="navPoint-44">
+        <navLabel>
+          <text>Social Media</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#social-media" />
+      </navPoint>
+      <navPoint id="navPoint-45">
+        <navLabel>
+          <text>Gathering Testimonials</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#gathering-testimonials" />
+      </navPoint>
+      <navPoint id="navPoint-46">
+        <navLabel>
+          <text>Converting Prospects into Clients</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#converting-prospects-into-clients" />
+      </navPoint>
+      <navPoint id="navPoint-47">
+        <navLabel>
+          <text>Repeat Business &amp; Referrals</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#repeat-business-referrals" />
+      </navPoint>
+      <navPoint id="navPoint-48">
+        <navLabel>
+          <text>Tracking Vendors</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#tracking-vendors" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-49">
+      <navLabel>
+        <text>Keeping In Touch</text>
+      </navLabel>
+      <content src="text/ch012.xhtml#keeping-in-touch" />
+      <navPoint id="navPoint-50">
+        <navLabel>
+          <text>360 Degree Outreach</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#degree-outreach" />
+      </navPoint>
+      <navPoint id="navPoint-51">
+        <navLabel>
+          <text>Email Deliverability</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#email-deliverability" />
+        <navPoint id="navPoint-52">
+          <navLabel>
+            <text>Bob Licher</text>
+          </navLabel>
+          <content src="text/ch012.xhtml#bob-licher" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-53">
+        <navLabel>
+          <text>Newsletters</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#newsletters" />
+      </navPoint>
+      <navPoint id="navPoint-54">
+        <navLabel>
+          <text>eCards</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#ecards" />
+      </navPoint>
+      <navPoint id="navPoint-55">
+        <navLabel>
+          <text>Mailing Labels and Postcards</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#mailing-labels-and-postcards" />
+        <navPoint id="navPoint-56">
+          <navLabel>
+            <text>Pete Doty</text>
+          </navLabel>
+          <content src="text/ch012.xhtml#pete-doty" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-57">
+        <navLabel>
+          <text>Text Messaging</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#text-messaging" />
+      </navPoint>
+      <navPoint id="navPoint-58">
+        <navLabel>
+          <text>In-Person</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#in-person" />
+      </navPoint>
+      <navPoint id="navPoint-59">
+        <navLabel>
+          <text>Special Occasions</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#special-occasions" />
+      </navPoint>
+      <navPoint id="navPoint-60">
+        <navLabel>
+          <text>Christmas Cards</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#christmas-cards" />
+      </navPoint>
+      <navPoint id="navPoint-61">
+        <navLabel>
+          <text>Birthdays</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#birthdays" />
+        <navPoint id="navPoint-62">
+          <navLabel>
+            <text>Lance Lubin</text>
+          </navLabel>
+          <content src="text/ch012.xhtml#lance-lubin" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-63">
+        <navLabel>
+          <text>Closing Anniversaries</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#closing-anniversaries" />
+      </navPoint>
+      <navPoint id="navPoint-64">
+        <navLabel>
+          <text>Baby Shower</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#baby-shower" />
+      </navPoint>
+      <navPoint id="navPoint-65">
+        <navLabel>
+          <text>Client Appreciation Events</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#client-appreciation-events" />
+        <navPoint id="navPoint-66">
+          <navLabel>
+            <text>Chris Warhurst</text>
+          </navLabel>
+          <content src="text/ch012.xhtml#chris-warhurst" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67">
+      <navLabel>
+        <text>From Listing to Loyalty</text>
+      </navLabel>
+      <content src="text/ch013.xhtml#from-listing-to-loyalty" />
+      <navPoint id="navPoint-68">
+        <navLabel>
+          <text>Getting Listings</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#getting-listings" />
+      </navPoint>
+      <navPoint id="navPoint-69">
+        <navLabel>
+          <text>Listing Management</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#listing-management" />
+      </navPoint>
+      <navPoint id="navPoint-70">
+        <navLabel>
+          <text>Yard Signs</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#yard-signs" />
+        <navPoint id="navPoint-71">
+          <navLabel>
+            <text>Glen Hagen</text>
+          </navLabel>
+          <content src="text/ch013.xhtml#glen-hagen" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-72">
+        <navLabel>
+          <text>Flyers</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#flyers" />
+      </navPoint>
+      <navPoint id="navPoint-73">
+        <navLabel>
+          <text>Service Reports</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#service-reports" />
+      </navPoint>
+      <navPoint id="navPoint-74">
+        <navLabel>
+          <text>Handling Closings</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#handling-closings" />
+      </navPoint>
+      <navPoint id="navPoint-75">
+        <navLabel>
+          <text>Post-Closing</text>
+        </navLabel>
+        <content src="text/ch013.xhtml#post-closing" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-76">
+      <navLabel>
+        <text>Conclusion</text>
+      </navLabel>
+      <content src="text/ch014.xhtml#conclusion" />
+    </navPoint>
+    <navPoint id="navPoint-77">
+      <navLabel>
+        <text>Further Reading</text>
+      </navLabel>
+      <content src="text/ch015.xhtml#further-reading" />
+    </navPoint>
+    <navPoint id="navPoint-78">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="text/ch016.xhtml#about-the-author" />
+    </navPoint>
+    <navPoint id="navPoint-79">
+      <navLabel>
+        <text>Endnotes</text>
+      </navLabel>
+      <content src="text/ch017.xhtml#endnotes" />
+    </navPoint>
+  </navMap>
+</ncx>
