@@ -42,27 +42,13 @@
             <div class="container hero-container">
                 <div class="hero-content">
                     <h1>CRM <span class="highlight-text">Quick Picks</span> Guide</h1>
-                    <p class="story-text">
-                        Not sure which CRM is right for you? This guide breaks down the top choices to help you decide
-                        quickly.
-                    </p>
+
                 </div>
 
                 <div class="hero-visual squeeze-form-container">
-                    <div class="opt-in-box">
-                        <p class="form-instruction">Enter your email to receive the guide</p>
-                        <form class="squeeze-form" action="https://formspree.io/f/xbdrwaob" method="POST">
-                            <div class="form-group">
-                                <input type="email" id="email" name="EMail" placeholder="you@example.com" required>
-                                <input type="hidden" name="Source" value="Website Quick Picks Guide">
-                                <input type="hidden" name="_subject" value="New Quick Picks Signup!">
-                            </div>
-                            <div style="text-align: center;">
-                                <button type="submit" class="btn btn-primary">Submit</button>
-                            </div>
-                            <p class="form-footer">We respect your privacy. Unsubscribe at any time. By connecting, you
-                                agree to our <a href="terms.html">Terms of Service</a>.</p>
-                        </form>
+                    <div class="jotform-wrapper">
+                        <div class="jotform-loader"></div>
+                        <script type="text/javascript" src="https://form.jotform.com/jsform/260686912761162"></script>
                     </div>
                 </div>
             </div>
@@ -92,6 +78,16 @@
                 nav.classList.toggle('active');
             });
         }
+    </script>
+    <script>
+        // Listen for Jotform iframe messages
+        window.addEventListener('message', function (e) {
+            if (e.origin.includes('jotform')) {
+                document.querySelectorAll('.jotform-loader').forEach(loader => {
+                    loader.style.display = 'none';
+                });
+            }
+        });
     </script>
 </body>
 

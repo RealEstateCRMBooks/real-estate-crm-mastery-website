@@ -136,7 +136,7 @@ img {
 /* Hero Section */
 .hero-section {
     background-color: #f4f6f7;
-    padding: 5rem 0;
+    padding: 3rem 0;
 }
 
 .hero-container {
@@ -272,7 +272,7 @@ img {
 
 /* Featured Book */
 .featured-book {
-    padding: 6rem 0;
+    padding: 4rem 0;
     background-color: #f8f9fa;
     /* Light grey bg to differentiate */
 }
@@ -280,10 +280,10 @@ img {
 .book-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 5rem;
+    gap: 3rem;
     align-items: start;
-    margin-bottom: 5rem;
-    padding-bottom: 5rem;
+    margin-bottom: 3rem;
+    padding-bottom: 3rem;
     border-bottom: 1px solid var(--border-color);
 }
 
@@ -623,6 +623,20 @@ img {
     margin-top: 0.2rem;
 }
 
+/* Content Section Styles (Privacy, Terms, etc.) */
+.content-section {
+    padding: 3rem 0;
+}
+
+.content-section h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.content-section p {
+    margin-bottom: 1.25rem;
+}
+
 /* =========================================
    Squeeze Page Styles (resources.html)
    ========================================= */
@@ -769,7 +783,7 @@ img {
 
 /* Resource Section Styles */
 .resource-section {
-    padding: 3rem 0;
+    padding: 2rem 0;
     border-bottom: 1px solid var(--border-color);
 }
 
@@ -1079,7 +1093,7 @@ img {
 
 /* Resource Hub & Cards */
 .resource-hub {
-    padding: 4rem 0;
+    padding: 2.5rem 0;
     background-color: #f8f9fa;
 }
 
@@ -1142,7 +1156,7 @@ img {
 
 /* FAQ Styles */
 .faq-section {
-    padding: 6rem 0;
+    padding: 3.5rem 0;
     background-color: #f9fafb;
 }
 
@@ -1154,8 +1168,8 @@ img {
 .faq-item {
     background: white;
     border-radius: 8px;
-    margin-bottom: 2rem;
-    padding: 2rem;
+    margin-bottom: 1.25rem;
+    padding: 1.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
     border: 1px solid var(--border-color);
 }
