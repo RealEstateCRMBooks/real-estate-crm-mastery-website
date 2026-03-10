@@ -72,7 +72,10 @@
                 </div>
 
                 <div class="hero-visual squeeze-form-container">
-                    <script type="text/javascript" src="https://form.jotform.com/jsform/260625697608165"></script>
+                    <div class="jotform-wrapper">
+                        <div class="jotform-loader"></div>
+                        <script type="text/javascript" src="https://form.jotform.com/jsform/260625697608165"></script>
+                    </div>
                 </div>
             </div>
         </section>
@@ -101,6 +104,16 @@
                 nav.classList.toggle('active');
             });
         }
+    </script>
+    <script>
+        // Listen for Jotform iframe messages
+        window.addEventListener('message', function (e) {
+            if (e.origin.includes('jotform')) {
+                document.querySelectorAll('.jotform-loader').forEach(loader => {
+                    loader.style.display = 'none';
+                });
+            }
+        });
     </script>
 </body>
 
