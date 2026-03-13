@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+
 # Further Reading
 
 This book, *Real Estate CRM Mastery*, is designed for the experienced agents who has mastered the essentials and is ready to scale their production. It covers advanced strategies for managing your time, automating your marketing, and leading a team or an assistant. I have also written a companion book, *Real Estate CRM Secrets*, which focuses on the fundamental systems a new agent needs to get organized, develop consistent habits, and build their business. Together, these two books offer a complete, repeatable system for transforming an agent into a top-producing real estate professional.
@@ -27,4 +30,11 @@ If you are looking to explore the business concepts discussed in this book furth
 *Endless Referrals* by Bob Burg. This book teaches that becoming a person others like and trust directly leads to more referrals.
 
 *Crucial Conversations: Tools for Talking When Stakes Are High* by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler. It provides a practical, step-by-step methodology for handling high-stakes interactions where opinions differ and emotions run high.
+
+---
+
+[← Previous Chapter: Conclusion](./12-conclusion.md) | [Next Chapter: About the Author →](./14-about-the-author.md)
+
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
 

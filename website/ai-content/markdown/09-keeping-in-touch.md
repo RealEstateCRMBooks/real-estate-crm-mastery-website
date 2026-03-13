@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+
 # Keeping In Touch
 
 ##### “One of the drawbacks of most real estate schools is they teach you only how to pass the real estate exam. They don’t teach you how to succeed as a Real Estate Agent once you get your license.”
@@ -38,7 +41,7 @@ Maintain regular contact with everyone in your database. This keeps you top of m
 
 When you send an email from your CRM, several processes occur behind the scenes to maximize the likelihood that your email is delivered and read, a metric known as deliverability.
 
-About 48% of all emails sent are spam[44]. Spam is unsolicited bulk email. Every email recipient has a spam filter that decides whether your email is spam. This automated process considers many factors, including your server’s email reputation, the email’s content, the sender’s identity, and the history of emails exchanged between the sender and recipient. When an email is flagged as spam, it goes to the recipient’s spam folder. In extreme cases, the email may be rejected or automatically deleted. This can happen if the original email contains or is suspected of containing malware, such as a virus.
+About 48% of all emails sent are spam[^44]. Spam is unsolicited bulk email. Every email recipient has a spam filter that decides whether your email is spam. This automated process considers many factors, including your server’s email reputation, the email’s content, the sender’s identity, and the history of emails exchanged between the sender and recipient. When an email is flagged as spam, it goes to the recipient’s spam folder. In extreme cases, the email may be rejected or automatically deleted. This can happen if the original email contains or is suspected of containing malware, such as a virus.
 
 To maximize deliverability, your CRM vendor employs a **postmaster** whose role is to ensure the CRM’s mail servers maintain a good reputation with other email servers. Each email server has a reputation based on the quality of the emails it sends. The reputation of your CRM’s email server is one factor used to determine whether your emails will be placed in the recipient’s spam folder. If the sending server’s reputation is particularly poor, the server itself can be blacklisted, causing all emails from that server to be automatically routed to the recipient’s spam folder or even blocked from delivery entirely, resulting in failed delivery.
 
@@ -88,7 +91,7 @@ While a newsletter can still be part of your promotional strategy, it should be 
 
 Seasonal Send Secret: Send your newsletter only twice a year in the fall and again in the spring. This maximizes the impact of your market updates.
 
-If you send your newsletter via email, a deliverability strategy is essential. Your CRM automatically tracks opt-outs, invalid addresses, and spam complaints to help you maintain a clean list. It can also monitor who has read your newsletter. Your open rate significantly influences how spam filters treat your emails; if recipients consistently ignore your newsletter, future messages may end up in their spam folders. Regularly check your open rates. If you notice a decline, a high number of opt-outs, or complaints, consider narrowing your distribution[45]. The postmaster of your real estate CRM is a valuable resource and can provide statistics to help identify issues.
+If you send your newsletter via email, a deliverability strategy is essential. Your CRM automatically tracks opt-outs, invalid addresses, and spam complaints to help you maintain a clean list. It can also monitor who has read your newsletter. Your open rate significantly influences how spam filters treat your emails; if recipients consistently ignore your newsletter, future messages may end up in their spam folders. Regularly check your open rates. If you notice a decline, a high number of opt-outs, or complaints, consider narrowing your distribution[^45]. The postmaster of your real estate CRM is a valuable resource and can provide statistics to help identify issues.
 
 Finally, consider alternative distribution options for your content instead of creating your own newsletter. Some brokerages and franchises offer a joint newsletter in which agents share mailing lists. This approach requires less work and can be ideal for agents who lack the time to produce their own content. You might also contribute to existing newsletters from local organizations. Many schools, churches, and community groups publish newsletters, and you can often place an ad for a small fee and benefit from their established distribution. You might also focus on social media instead, which allows you to reach an audience beyond your mailing list.
 
@@ -96,7 +99,7 @@ Once you’ve established your overall strategy, the content of your newsletter 
 
 Remember, your newsletter is selling YOU, so it should offer information only you are uniquely qualified to provide. Keep it local and fresh. Because you focus on real estate in a specific area, your newsletter should feature hyper-local content. Just-listed and just-sold homes are a great starting point, helping homeowners gauge home appreciation and giving potential buyers a sense of current market prices.
 
-Be sure to include regional trends in home prices. Are home prices trending upward? How do they compare with state and national levels? Discuss new construction projects, such as shopping malls or new home developments, and share your expert insight into how they might affect the community and property values[46].
+Be sure to include regional trends in home prices. Are home prices trending upward? How do they compare with state and national levels? Discuss new construction projects, such as shopping malls or new home developments, and share your expert insight into how they might affect the community and property values[^46].
 
 Non-real-estate content can also work well, as long as it’s local. Consider reviewing a new shop or restaurant in your neighborhood or sharing information about local fundraisers and charity events.
 
@@ -130,11 +133,11 @@ While easy to send, eCards should be used sparingly. Sending a monthly eCard can
 
 I recommend sending one or two eCards each year to friends, family, and past clients. For special occasions like birthdays and home anniversaries, consider combining phone calls and texts with eCards, alternating each year. For bulk eCards, you might send them on different holidays each year. For example, if you sent an eCard for Easter and Halloween this year, try sending one for New Year’s and Thanksgiving next year. By keeping things fresh, you reduce the risk of email fatigue, which occurs when you send too many emails too quickly, prompting recipients to complain or opt out to stop the flood of messages.
 
-Sending eCards also helps you keep your database accurate. About 22% of email addresses become invalid each year as people switch providers[47]. Your real estate CRM tracks these issues by marking invalid emails as HardBounces and flagging contacts who have not opened multiple messages. This information is ideal for identifying people you should contact by an alternative means, such as a phone call. This is a good opportunity to reach out and check in on how things are going. One notable reason someone might change their email address is that they have moved.
+Sending eCards also helps you keep your database accurate. About 22% of email addresses become invalid each year as people switch providers[^47]. Your real estate CRM tracks these issues by marking invalid emails as HardBounces and flagging contacts who have not opened multiple messages. This information is ideal for identifying people you should contact by an alternative means, such as a phone call. This is a good opportunity to reach out and check in on how things are going. One notable reason someone might change their email address is that they have moved.
 
 ## Mailing Labels and Postcards
 
-In an era of overflowing inboxes and spam filters, physical mail remains one of the most reliable ways to reach your clients. A tangible item they can hold is more memorable and impactful than a fleeting email. Your real estate CRM can handle your physical mailings in three main ways. First, you can export a CSV file of the mailing list for use with a mailing house such as ReaMark, ProspectsPlus, or SendSations. This works well for bulk postcards[48]. Second, you can **print a batch of labels or envelopes** directly from your CRM, perfect for Christmas mailings or bulk letters you want to send by hand. Finally, you can print individual labels or envelopes from a queue of letters within your CRM. This last option is ideal for personalized, time-release drip letters or postcards, which you can schedule using a time-release drip sequence[49].
+In an era of overflowing inboxes and spam filters, physical mail remains one of the most reliable ways to reach your clients. A tangible item they can hold is more memorable and impactful than a fleeting email. Your real estate CRM can handle your physical mailings in three main ways. First, you can export a CSV file of the mailing list for use with a mailing house such as ReaMark, ProspectsPlus, or SendSations. This works well for bulk postcards[^48]. Second, you can **print a batch of labels or envelopes** directly from your CRM, perfect for Christmas mailings or bulk letters you want to send by hand. Finally, you can print individual labels or envelopes from a queue of letters within your CRM. This last option is ideal for personalized, time-release drip letters or postcards, which you can schedule using a time-release drip sequence[^49].
 
 Postcards offer significant advantages over printed letters. They achieve higher response rates because their message is easily accessible. Even if someone plans to toss a postcard in the trash, they can’t help but quickly scan the front and back. Sending postcards is also more affordable than mailing a regular first-class letter, thanks to lower material, handling, and postage costs. For these reasons, postcards are an excellent tool for geographic farming. I recommend sending “just listed” and “just sold” postcards to the neighborhood of each of your listings, once when you get the listing and again when the listing closes.
 
@@ -192,7 +195,7 @@ For these reasons, text messages are useful for responding to inquiries from pro
 
 ## In-Person
 
-Face-to-face interaction remains the gold standard for communication. It lets you present yourself in the best possible light and better interpret your prospect’s feedback. Academic studies show that 50% to 90% of communication is nonverbal[50]. When you meet someone in person, you can observe body language cues, which makes you more convincing and authoritative than you could be over the phone.
+Face-to-face interaction remains the gold standard for communication. It lets you present yourself in the best possible light and better interpret your prospect’s feedback. Academic studies show that 50% to 90% of communication is nonverbal[^50]. When you meet someone in person, you can observe body language cues, which makes you more convincing and authoritative than you could be over the phone.
 
 Some meetings, such as those at a coffee shop or a grocery store, happen by chance. When meeting someone unexpectedly, the goal is to strengthen the relationship. You can do this by gathering contact information and sharing your business card. Unlike a phone call or an email, where communication is ongoing, an in-person meeting does not automatically provide an opportunity to follow up.
 
@@ -208,16 +211,18 @@ While traditional face-to-face meetings are a hallmark of the real estate indust
 
 ### Endnotes
 
-[44] According to a Statista projection, spam emails accounted for approximately 48% of global email traffic in 2024, a notable decline from the 80% levels observed about a decade earlier. Still, that means nearly one in two emails remain junk.
+[^44]: According to a Statista projection, spam emails accounted for approximately 48% of global email traffic in 2024, a notable decline from the 80% levels observed about a decade earlier. Still, that means nearly one in two emails remain junk.
+[^45]: According to MailChimp, a reasonable spam complaint rate is below 1 complaint per 1,000 emails. A rate higher than this can damage your sender reputation and cause deliverability problems, increasing the chance that your emails will go to spam folders.
+[^46]: A widely cited 2018 report by ATTOM Data Solutions found that homeowners near a Trader Joe’s saw an average 5-year home price appreciation of 67%, and those near a Whole Foods saw a 52% appreciation.
+[^47]: The marketing research firm MarketingSherpa reports that contact data decays at a rate of 2.1% per month, which compounds to approximately 22.5% annually. This phenomenon is often called “list decay.”
+[^48]: Direct mail industry analysis consistently shows that postcards achieve higher response rates because the message is instantly scannable and requires no “opening.” For example, the Association of National Advertisers (ANA) reports response rates of approximately 5.7% for postcards and 4.3% for letter-sized envelopes. At the same time, some sources indicate that oversized envelopes can achieve response rates outperforming standard letter formats.
+[^49]: This principle was scientifically analyzed by the influential German researcher Siegfried Voegele. His pioneering eye-tracking studies in the 1980s revealed that readers do not scan a letter from top to bottom. Instead, their eyes jump to specific “hot spots,” with the postscript (P.S.) among the most consistently viewed elements, along with the headline and signature.
+[^50]: Scholars of interpersonal communication note that a substantial portion of meaning in human interactions is conveyed nonverbally, with estimates in the communication literature placing nonverbal components as high as 60–90% of the interpreted message. See *Nonverbal Communication, Interpersonal Communication Abridged Textbook* (Central New Mexico Community College), which reports that “scholars suggest that up to 60–90% of the meaning we get from communicative interactions comes to us nonverbally” (citing DeVito 2014; Verderber, MacGeorge, & Verderber 2016).
 
-[45] According to MailChimp, a reasonable spam complaint rate is below 1 complaint per 1,000 emails. A rate higher than this can damage your sender reputation and cause deliverability problems, increasing the chance that your emails will go to spam folders.
+---
 
-[46] A widely cited 2018 report by ATTOM Data Solutions found that homeowners near a Trader Joe’s saw an average 5-year home price appreciation of 67%, and those near a Whole Foods saw a 52% appreciation.
+[← Previous Chapter: Fueling the Funnel](./08-fueling-the-funnel.md) | [Next Chapter: Special Occasions →](./10-special-occasions.md)
 
-[47] The marketing research firm MarketingSherpa reports that contact data decays at a rate of 2.1% per month, which compounds to approximately 22.5% annually. This phenomenon is often called “list decay.”
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
 
-[48] Direct mail industry analysis consistently shows that postcards achieve higher response rates because the message is instantly scannable and requires no “opening.” For example, the Association of National Advertisers (ANA) reports response rates of approximately 5.7% for postcards and 4.3% for letter-sized envelopes. At the same time, some sources indicate that oversized envelopes can achieve response rates outperforming standard letter formats.
-
-[49] This principle was scientifically analyzed by the influential German researcher Siegfried Voegele. His pioneering eye-tracking studies in the 1980s revealed that readers do not scan a letter from top to bottom. Instead, their eyes jump to specific “hot spots,” with the postscript (P.S.) among the most consistently viewed elements, along with the headline and signature.
-
-[50] Scholars of interpersonal communication note that a substantial portion of meaning in human interactions is conveyed nonverbally, with estimates in the communication literature placing nonverbal components as high as 60–90% of the interpreted message. See *Nonverbal Communication, Interpersonal Communication Abridged Textbook* (Central New Mexico Community College), which reports that “scholars suggest that up to 60–90% of the meaning we get from communicative interactions comes to us nonverbally” (citing DeVito 2014; Verderber, MacGeorge, & Verderber 2016).

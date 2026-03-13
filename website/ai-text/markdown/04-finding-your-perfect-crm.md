@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+
 # Finding Your Perfect CRM
 
 ##### “Many new agents complain about working too hard, not having enough free time, and not making enough money. This process of automating your business is crucial for agents who want to make the leap from sole proprietor to business owner. It cannot be done without systems.”
@@ -14,7 +17,7 @@ website: realEstateCRMMastery.com
 
 The primary role of a real estate agent is to act as a matchmaker, connecting buyers and sellers to close a deal. As an insider, you know how challenging that can be. Finding the right home for a buyer at a fair price is difficult enough. But there are also the complexities of inspections, loans, high-stakes life events, and the economy. And we haven’t even touched on the personalities involved!
 
-An essential tool for this is your real estate CRM[1]. Your CRM helps you find new clients and maintain relationships with past clients, friends, and family. It also helps you track the many details needed to identify buyers and sellers, match them, and help them successfully close their sales.
+An essential tool for this is your real estate CRM[^1]. Your CRM helps you find new clients and maintain relationships with past clients, friends, and family. It also helps you track the many details needed to identify buyers and sellers, match them, and help them successfully close their sales.
 
 Much like you act as a matchmaker for buyers and sellers, this chapter acts as a matchmaker for you and your CRM. We will help you identify the features to look for and the pitfalls to avoid in a CRM. We will also assist you in connecting your CRM to other services you’re already using and discuss how it can serve as the backbone of growth for your real estate career.
 
@@ -72,7 +75,7 @@ Instructional video tutorials are popular and well-suited for learning simple ta
 
 Another important factor is the availability of a **free trial**. That way, you can compare the features of a few CRMs. Buying a real estate CRM isn’t like buying groceries. Each CRM targets a slightly different audience and will have a slightly different user interface and support options. The free trial lets you try the software before you commit. You can see how easy the product is to learn and use, evaluate the responsiveness of technical support, and check for glitches. The trial period is also the ideal time to confirm that the vendor provides the complimentary, hands-on onboarding you will need if you decide to subscribe.
 
-Sometimes features sound better than they really are, and trying them helps you understand how practical your new CRM will be. Ultimately, the best CRM is the one you use regularly. If your CRM is hard to learn or operate, it undermines its purpose[2]. You should choose a CRM that is **easy to learn and use**. This way, you pick a vendor and software product that works for you.
+Sometimes features sound better than they really are, and trying them helps you understand how practical your new CRM will be. Ultimately, the best CRM is the one you use regularly. If your CRM is hard to learn or operate, it undermines its purpose[^2]. You should choose a CRM that is **easy to learn and use**. This way, you pick a vendor and software product that works for you.
 
 Sometimes people impulsively buy a CRM, believing the purchase will motivate them to use it because they would feel guilty about paying for something they aren’t using. They think the more expensive the CRM, the more likely they are to use it, because if they don’t, they will feel even worse! Instead of trying to make yourself feel guilty, set small goals and reward yourself when you achieve them. Also, set a regular schedule in your calendar to log in to your CRM. Trying to make yourself feel bad won’t spur you to use your CRM.
 
@@ -94,7 +97,7 @@ A generic CRM also lacks essential features such as real estate calculators and 
 
 A second pitfall to watch for is using an all-in-one CRM that bundles a website and paid lead services. I recommend avoiding **purchasing your CRM, lead service, and website from the same vendor**. While this might seem like a good idea at first, it forces you to use all three services together. If you’re dissatisfied with one, you have to cancel all three to make a change. Instead, leverage your real estate CRM’s integration features to add third-party services. If your lead service or website isn’t delivering the results you need, you can then fire them while keeping your CRM.
 
-When it comes to websites, there are many types you can create, and their costs vary. If you use a website included with your CRM, your options are limited, reducing your flexibility. Trends in the industry have made it harder to justify high-end websites, as getting your website noticed has become more challenging amid stiff competition from other agents and services like Zillow, Trulia, and Realtor.com[3]. You may decide that money spent on a high-end website is better allocated elsewhere, which is why it’s best to buy your website from a vendor other than the one that supplies your CRM.
+When it comes to websites, there are many types you can create, and their costs vary. If you use a website included with your CRM, your options are limited, reducing your flexibility. Trends in the industry have made it harder to justify high-end websites, as getting your website noticed has become more challenging amid stiff competition from other agents and services like Zillow, Trulia, and Realtor.com[^3]. You may decide that money spent on a high-end website is better allocated elsewhere, which is why it’s best to buy your website from a vendor other than the one that supplies your CRM.
 
 One last point about buying an all-in-one solution is that the price is usually much higher than that of a standalone real estate CRM, even when including the cost of additional services purchased separately. In some cases, the monthly expenses for these all-in-one solutions are comparable to a car payment.
 
@@ -106,21 +109,21 @@ If you’re interested in what other agents think about the CRM you’re conside
 
 **Review your CRM vendor’s privacy policy**. While some vendors clearly state that your entered data remains private, some have policies that allow them to profit from your data through integrated services and cross-marketing.
 
-Lone Wolf Software’s platform, which includes its transaction management solutions, features an Agent Marketplace[4]. This marketplace allows you, the agent, to connect clients with service providers such as mortgage brokers, home warranty companies, home insurance providers, and title companies during the transaction process. Lone Wolf earns revenue through its business relationships with these service providers who either pay to be integrated into the platform or pay referral fees for transactions facilitated by the platform. Although you help facilitate these connections, Lone Wolf does not share revenue from these platform-driven referrals with you.
+Lone Wolf Software’s platform, which includes its transaction management solutions, features an Agent Marketplace[^4]. This marketplace allows you, the agent, to connect clients with service providers such as mortgage brokers, home warranty companies, home insurance providers, and title companies during the transaction process. Lone Wolf earns revenue through its business relationships with these service providers who either pay to be integrated into the platform or pay referral fees for transactions facilitated by the platform. Although you help facilitate these connections, Lone Wolf does not share revenue from these platform-driven referrals with you.
 
-Zillow Group, which acquired the Follow Up Boss (FUB) CRM, can match a contact in your FUB database to a Zillow account holder, creating a “mutual customer[5].” For these mutual customers, Zillow may use the private information in your CRM—including your notes—to market services to your clients, such as Zillow Home Loans, home warranties, and title insurance. This could place you in an ethical dilemma, as you may be asked to promote or sell products that are not in your client’s best interests. Like Lone Wolf, Zillow receives financial compensation from these referrals. You, the agent, do not receive financial benefit from Zillow’s marketing of its in-house services to your client base.
+Zillow Group, which acquired the Follow Up Boss (FUB) CRM, can match a contact in your FUB database to a Zillow account holder, creating a “mutual customer[^5].” For these mutual customers, Zillow may use the private information in your CRM—including your notes—to market services to your clients, such as Zillow Home Loans, home warranties, and title insurance. This could place you in an ethical dilemma, as you may be asked to promote or sell products that are not in your client’s best interests. Like Lone Wolf, Zillow receives financial compensation from these referrals. You, the agent, do not receive financial benefit from Zillow’s marketing of its in-house services to your client base.
 
-Two additional products with similar conflicts are CINC and RealGeeks, both owned by Fidelity National Financial (FNF), the largest title and settlement services company in the country[6]. From RealGeeks’ privacy policy: “We may provide Personal Information and Usage Information to our subsidiaries, affiliated companies, and other businesses or persons for the purposes of processing such information on our behalf and promoting the products and services of our trusted business partners[7].”
+Two additional products with similar conflicts are CINC and RealGeeks, both owned by Fidelity National Financial (FNF), the largest title and settlement services company in the country[^6]. From RealGeeks’ privacy policy: “We may provide Personal Information and Usage Information to our subsidiaries, affiliated companies, and other businesses or persons for the purposes of processing such information on our behalf and promoting the products and services of our trusted business partners[^7].”
 
 This approach is similar to the cross-marketing strategy that banks use. One key difference between a bank and a real estate agent is that real estate agents are independent contractors. As a result, the way this information is shared does not allow you, the agent, to benefit financially from it.
 
 While these conflicts don’t necessarily make that CRM a poor choice, it’s helpful to understand each CRM’s policy. If your clients receive spam emails from an affiliate of your CRM vendor, it’s useful to know why. You should also be aware of whether your CRM vendor uses the notes in your CRM. Don’t automatically assume that the data you enter into your CRM is private.
 
-Some CRM vendors treat your private data as just that—private. To find those vendors, review their privacy policies. Look for a clear, straightforward statement affirming that your data is yours and will not be shared. Two vendors with the strictest privacy policies are RealtyJuggler and WiseAgent, but the vendors listed below also offer reasonably strong protections.
+Some CRM vendors treat your private data as just that—private. To find those vendors, review their privacy policies. Look for a clear, straightforward statement affirming that your data is yours and will not be shared. Two vendors with the strictest privacy policies are [RealtyJuggler](https://www.realtyjuggler.com/) and WiseAgent, but the vendors listed below also offer reasonably strong protections.
 
 ## CRM Quick Pick List
 
-**RealtyJuggler**: The most affordable real estate CRM with a comprehensive feature set, including transaction management, an extensive content library, calculators, and expense and income tracking. They offer a long free trial, phone support, an excellent privacy policy, and a prorated refund for canceling at any time.
+**[RealtyJuggler](https://www.realtyjuggler.com/)**: The most affordable real estate CRM with a comprehensive feature set, including transaction management, an extensive content library, calculators, and expense and income tracking. They offer a long free trial, phone support, an excellent privacy policy, and a prorated refund for canceling at any time.
 
 **Realvolve**: An advanced real estate CRM specializing in sophisticated workflow automation. This system is designed for experienced agents and real estate teams. Its robust process automation streamlines complex client follow-up plans. The platform also includes features that promote team accountability. It is suited for experienced agents and teams who require detailed control. It offers a free trial, but no phone support, and its advanced features come with a steep learning curve.
 
@@ -138,7 +141,7 @@ You may have outgrown your current brokerage and be considering a switch to a ne
 
 Another disadvantage of a free broker CRM is poor email deliverability. Maintaining a good sending reputation with email servers requires significant effort and investment. On a free platform, the unprofessional sending habits of one agent can harm the deliverability for all other agents using the system. Without a financial incentive to monitor the network, the platform’s overall reputation can decline, causing your legitimate emails to land in the junk folder.
 
-That’s why some free CRM vendors won’t even show email open rates. The **email open rate** is an important marketing metric that measures the percentage of recipients who open an email among those who received it. This is sometimes called email engagement. Just sending an email isn’t enough; you also need to make sure it’s delivered and read. Typical open rates are around 30%[8]. If your open rate is low, talk with your CRM vendor about ways to improve it. Reputable CRM vendors will have a **postmaster,** who is a person responsible for ensuring compliance with federal regulations and maintaining a good reputation with email service providers.
+That’s why some free CRM vendors won’t even show email open rates. The **email open rate** is an important marketing metric that measures the percentage of recipients who open an email among those who received it. This is sometimes called email engagement. Just sending an email isn’t enough; you also need to make sure it’s delivered and read. Typical open rates are around 30%[^8]. If your open rate is low, talk with your CRM vendor about ways to improve it. Reputable CRM vendors will have a **postmaster,** who is a person responsible for ensuring compliance with federal regulations and maintaining a good reputation with email service providers.
 
 Some vendors that offer a free real estate CRM provide a basic product at no cost and offset lost revenue by charging extra for add-on services. I recommend asking your CRM vendor which features incur additional costs and whether the free version has any limitations.
 
@@ -156,7 +159,7 @@ A reputable CRM vendor will provide a **free trial**. A free trial demonstrates 
 
 ## Changing Your CRM
 
-According to the National Association of Realtors (NAR), the average agent stays with their current brokerage for about five years[9]. Changing brokerages requires careful due diligence. Be honest with yourself about how the change will affect your income and the disruption to the leads you’re nurturing before you make a move. You will also need to coordinate with your old broker to determine which leads you can take with you and which are owned by your broker. Using a CRM you control serves as an insurance policy for your database if you decide to switch brokerages.
+According to the National Association of Realtors (NAR), the average agent stays with their current brokerage for about five years[^9]. Changing brokerages requires careful due diligence. Be honest with yourself about how the change will affect your income and the disruption to the leads you’re nurturing before you make a move. You will also need to coordinate with your old broker to determine which leads you can take with you and which are owned by your broker. Using a CRM you control serves as an insurance policy for your database if you decide to switch brokerages.
 
 If you rely on a broker-provided CRM, your transition will require more planning. You should transfer your personal contacts to a new CRM you control before losing access to the old system. A real estate CRM will help you categorize and separate broker-owned leads.
 
@@ -188,20 +191,20 @@ If you decide to switch brokerages, your new real estate CRM can help you notify
 
 ### Endnotes
 
-[1] According to Realty Times (citing a National Association of Realtors (NAR) report), 59% of real estate agents use some form of CRM, while 87% of top-performing (top 10% earnings) agents use a CRM.
+[^1]: According to Realty Times (citing a National Association of Realtors (NAR) report), 59% of real estate agents use some form of CRM, while 87% of top-performing (top 10% earnings) agents use a CRM.
+[^2]: Technology research firms like Gartner have consistently reported that low user adoption of advanced features is a primary reason why CRM initiatives fail to deliver their full potential ROI.
+[^3]: According to Maile Ohye, then-Developer Programs Tech Lead at Google, the industry-standard window for results is longer than most executives realize. In official Google documentation released in 2017, Ohye famously stated that most SEO initiatives require four months to a year before a business sees a measurable benefit.
+[^4]: Lone Wolf Software Privacy Policy.
+[^5]: Follow Up Boss CRM, owned by Zillow privacy policies.
+[^6]: CINC Privacy Policy.
+[^7]: RealGeeks Privacy Policy.
+[^8]: Mailchimp reports open rates of 31% for business and finance emails.
+[^9]: According to the 2024 Member Profile from the National Association of Realtors (NAR), the median tenure of agents with their current firm is 5 years. Among agents with 16 years or more of experience (often including broker-owners), the median tenure is 13 years.
 
-[2] Technology research firms like Gartner have consistently reported that low user adoption of advanced features is a primary reason why CRM initiatives fail to deliver their full potential ROI.
+---
 
-[3] According to Maile Ohye, then-Developer Programs Tech Lead at Google, the industry-standard window for results is longer than most executives realize. In official Google documentation released in 2017, Ohye famously stated that most SEO initiatives require four months to a year before a business sees a measurable benefit.
+[← Previous Chapter: Introduction](./03-introduction.md) | [Next Chapter: Harnessing the Power of Your CRM →](./05-harnessing-the-power-of-your-crm.md)
 
-[4] Lone Wolf Software Privacy Policy.
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
 
-[5] Follow Up Boss CRM, owned by Zillow privacy policies.
-
-[6] CINC Privacy Policy.
-
-[7] RealGeeks Privacy Policy.
-
-[8] Mailchimp reports open rates of 31% for business and finance emails.
-
-[9] According to the 2024 Member Profile from the National Association of Realtors (NAR), the median tenure of agents with their current firm is 5 years. Among agents with 16 years or more of experience (often including broker-owners), the median tenure is 13 years.

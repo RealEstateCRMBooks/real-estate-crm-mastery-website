@@ -6,13 +6,16 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+
 # Special Occasions
 
 ##### “Choose a reasonable number of people to actually speak with by phone or in person daily from your database. Five or fewer is recommended, though you’ll need to dial a larger number to make those five real contacts.”
 
 —Tim & Julie Harris, *Harris Rules*
 
-A surprising statistic: only 9% of Realtors consistently stay in touch with clients after closing[51]. Your past clients are your best opportunities for referrals and repeat business. The longer you are in the industry, the more you can draw on the extensive goodwill you have built with your satisfied past clients.
+A surprising statistic: only 9% of Realtors consistently stay in touch with clients after closing[^51]. Your past clients are your best opportunities for referrals and repeat business. The longer you are in the industry, the more you can draw on the extensive goodwill you have built with your satisfied past clients.
 
 Many agents are unsure how to transition from a strictly professional relationship to a trusted friend and advisor after closing. This chapter shows how to turn everyday moments into opportunities to stay in touch and build friendships. First, you’ll learn how regular contact fosters loyalty and encourages repeat business. Next, you’ll discover how personal events and holidays help you stay connected with current and former clients. Finally, you’ll see how to use your CRM to plan and follow through consistently. By following these steps, you’ll create a steady flow of communication that keeps you top of mind. When your friends need good real estate advice, you’ll always be there for them. And remember: you are never too busy for their referrals!
 
@@ -26,7 +29,7 @@ If you’re hesitant to send a card to someone, they probably don’t belong in 
 
 While I use the term Christmas, you can send winter holiday cards if you prefer to keep your holiday greetings neutral. Suppose a large part of your database is non-Christian. In that case, you might also create a second category, “WinterHoliday,” and send one card to the “Christmas” group and a different one to your “WinterHoliday” group.
 
-There’s something special about Christmas cards[52]. People love receiving them and displaying them prominently where guests are likely to see them. Go all out with glitter and bling. No other medium lets you send a piece of mail that recipients proudly display for others to see. Do it tastefully, and your card becomes free advertising that can inspire a referral. For this to work, commit fully to the season. The more beautiful and festive the card, the better. Avoid turning it into a marketing piece with your face on the cover. This isn’t a slick ad. It’s your heartfelt wish for the recipient to enjoy a wonderful holiday.
+There’s something special about Christmas cards[^52]. People love receiving them and displaying them prominently where guests are likely to see them. Go all out with glitter and bling. No other medium lets you send a piece of mail that recipients proudly display for others to see. Do it tastefully, and your card becomes free advertising that can inspire a referral. For this to work, commit fully to the season. The more beautiful and festive the card, the better. Avoid turning it into a marketing piece with your face on the cover. This isn’t a slick ad. It’s your heartfelt wish for the recipient to enjoy a wonderful holiday.
 
 In many ways, your role as a real estate agent is to help people find their perfect home. Home is created when people make space for each other in their hearts. It’s about being with loved ones who matter most and feeling accepted. For many, Christmas is the one time of year when scattered family and friends come together intentionally. A house is more than just an address — it’s the foundation of tradition, a refuge for comfort, and the main stage where shared moments become lasting legacies.
 
@@ -154,6 +157,13 @@ Ultimately, client appreciation events are the most effective and enjoyable way 
 
 ### Endnotes
 
-[51] The 9% figure is widely cited in real estate industry blogs and coaching materials. This figure should be understood as an industry-accepted approximation rather than a rigorously documented statistic.
+[^51]: The 9% figure is widely cited in real estate industry blogs and coaching materials. This figure should be understood as an industry-accepted approximation rather than a rigorously documented statistic.
+[^52]: In the experiment, Dr. Kunz and his family sent Christmas cards to 578 strangers. They received about 117 cards in return, many with personal notes and photos, showing a strong, automatic human tendency to return favors, even to strangers. Kunz, P. R., & Woolcott, M. (1976). “*Season’s Greetings: From My Status to Yours”*. Social Science Research, 5(3), 269–278.
 
-[52] In the experiment, Dr. Kunz and his family sent Christmas cards to 578 strangers. They received about 117 cards in return, many with personal notes and photos, showing a strong, automatic human tendency to return favors, even to strangers. Kunz, P. R., & Woolcott, M. (1976). “*Season’s Greetings: From My Status to Yours”*. Social Science Research, 5(3), 269–278.
+---
+
+[← Previous Chapter: Keeping In Touch](./09-keeping-in-touch.md) | [Next Chapter: From Listing to Loyalty →](./11-from-listing-to-loyalty.md)
+
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+

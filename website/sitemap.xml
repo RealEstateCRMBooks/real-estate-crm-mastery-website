@@ -42,12 +42,7 @@
       <changefreq>yearly</changefreq>
       <priority>0.3</priority>
    </url>
-   <url>
-      <loc>https://realestatecrmmastery.com/quick_picks.html</loc>
-      <lastmod>2026-02-25</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-   </url>
+
    <url>
       <loc>https://realestatecrmmastery.com/quotes.html</loc>
       <lastmod>2026-02-25</lastmod>

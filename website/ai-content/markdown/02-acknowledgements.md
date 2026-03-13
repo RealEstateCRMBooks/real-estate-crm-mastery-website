@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+
 # Acknowledgements
 
 Writing this book proved more challenging than I expected, and I am deeply thankful to those who made it possible.
@@ -20,4 +23,12 @@ To Nathan Grimm, your feedback and contributions on technical topics like email 
 
 To Frank Larnerd, I appreciate your diagrams and for sharing your expertise on social media, content publishing, and the operation of a real estate Customer Relationship Management (CRM). Your perspective added valuable depth to the book.
 
-I am grateful to the entire RealtyJuggler team and their decades of experience in real estate CRMs. I draw upon the knowledge gained from handling countless sales and support calls over the past 20 years.
+I am grateful to the entire [RealtyJuggler](https://www.realtyjuggler.com/) team and their decades of experience in real estate CRMs. I draw upon the knowledge gained from handling countless sales and support calls over the past 20 years.
+
+---
+
+[← Previous Chapter: Dedication](./01-dedication.md) | [Next Chapter: Introduction →](./03-introduction.md)
+
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+

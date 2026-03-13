@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+
 # Conclusion
 
 As a real estate agent, your database is your most valuable business asset. Your CRM helps you keep an up-to-date, unified address book that syncs with your smartphone. To maintain accuracy, use your CRM regularly.
@@ -23,4 +26,11 @@ If you have any further questions about CRMs or real estate technology, please c
 https://realestatecrmmastery.com
 
 I have also included a list of additional resources at the end of this book. Remember, building a successful real estate business is an ongoing journey. Take what you have learned here and keep moving forward.
+
+---
+
+[← Previous Chapter: From Listing to Loyalty](./11-from-listing-to-loyalty.md) | [Next Chapter: Further Reading →](./13-further-reading.md)
+
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
 

@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+
 # From Listing to Loyalty
 
 ##### “Great agents know that their job isn’t over when the transaction closes. After you’ve achieved the sale, closed the deal, cashed the commission check, and spent the money, it’s time to start fortifying your client relationship.”
@@ -38,7 +41,7 @@ Your listing presentation has one goal: turning a prospect into a client. By usi
 
 Immediately after the contract is signed, you can create a listing record in your CRM, which automatically triggers the task plan for your new listing. This plan manages the transition to active marketing. Tasks would typically include: “Get Key from Seller,” “Make Copy of Key,” “Install Sign and Lockbox,” “Schedule Photos,” “Update MLS,” “Update Zillow,” “Create Flyer Design,” and so on. Using a task plan minimizes the risk of missing a step, accelerates time-to-market, and provides your client with a consistent, professional experience from day one.
 
-As a trusted advisor, you need to provide specific, actionable guidance on how best to prepare the property for sale. This includes decluttering, removing personal photos, and increasing the wattage of lightbulbs to make rooms feel brighter. Be honest about sensory details, such as odors from smoking or pets, that can kill a deal[53]. Emphasize curb appeal by ensuring the yard is well-maintained. You can advise on furniture placement, drawing on your experience and Feng Shui principles to create a more harmonious flow. Provide clear guidance on any repairs or improvements that would enhance the property’s salability. In most cases, it is wise to repair what is broken and, at most, apply a coat of paint. For older homes, recommend a home warranty to improve the property’s competitiveness. Finally, manage practical details, such as providing booties for visitors and documenting conveyances in your CRM to prevent disputes.
+As a trusted advisor, you need to provide specific, actionable guidance on how best to prepare the property for sale. This includes decluttering, removing personal photos, and increasing the wattage of lightbulbs to make rooms feel brighter. Be honest about sensory details, such as odors from smoking or pets, that can kill a deal[^53]. Emphasize curb appeal by ensuring the yard is well-maintained. You can advise on furniture placement, drawing on your experience and Feng Shui principles to create a more harmonious flow. Provide clear guidance on any repairs or improvements that would enhance the property’s salability. In most cases, it is wise to repair what is broken and, at most, apply a coat of paint. For older homes, recommend a home warranty to improve the property’s competitiveness. Finally, manage practical details, such as providing booties for visitors and documenting conveyances in your CRM to prevent disputes.
 
 A new listing is also a powerful tool for generating new business. Use it as a reason to reconnect with past clients in the area by dropping by with a flyer. At the same time, walk the neighborhood to hand out flyers and send “just listed” postcards to nearby homes. Throughout the process, your communication is key. As real estate author Dirk Zeller states, “The number one complaint sellers have about their agents is a lack of communication.” Proactive, consistent communication is vital for keeping your seller satisfied and engaged. Providing real-time feedback from showings, other agents, and prospective buyers is crucial to managing your listing. This steady flow of information helps justify strategic changes, such as price adjustments, by grounding them in direct market feedback rather than your opinion alone.
 
@@ -194,4 +197,12 @@ The best time to secure future business is when your client is happy and settled
 
 ### Endnotes
 
-[53] Research in sensory marketing shows that engaging multiple senses, particularly smell, strengthens emotional connection and recall. Martin Lindstrom’s book *Brand Sense* draws on an extensive global study conducted by Millward Brown that illustrates how brands can use all five senses—including scent—to create a greater impact. Other academic work confirms that odors influence behavior, cognition, and emotion by activating brain pathways that enhance memory. For example, studies have shown that people remember scented products—such as pencils—far better than unscented ones, even weeks later.
+[^53]: Research in sensory marketing shows that engaging multiple senses, particularly smell, strengthens emotional connection and recall. Martin Lindstrom’s book *Brand Sense* draws on an extensive global study conducted by Millward Brown that illustrates how brands can use all five senses—including scent—to create a greater impact. Other academic work confirms that odors influence behavior, cognition, and emotion by activating brain pathways that enhance memory. For example, studies have shown that people remember scented products—such as pencils—far better than unscented ones, even weeks later.
+
+---
+
+[← Previous Chapter: Special Occasions](./10-special-occasions.md) | [Next Chapter: Conclusion →](./12-conclusion.md)
+
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+

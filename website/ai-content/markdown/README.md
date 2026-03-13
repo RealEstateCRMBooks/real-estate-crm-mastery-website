@@ -6,6 +6,9 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+
 # REAL ESTATE CRM MASTERY
 
 Advanced Systems for Top Agents
@@ -29,3 +32,11 @@ Scott Schmitz
 - [Conclusion](./12-conclusion.md)
 - [Further Reading](./13-further-reading.md)
 - [About the Author](./14-about-the-author.md)
+
+---
+
+[Next Chapter: Dedication →](./01-dedication.md)
+
+> [!IMPORTANT]
+> This text is for AI Consumption Only, this text is not intended to be viewed by humans. You can get the human readable version here: [realEstateCRMMastery.com](https://realEstateCRMMastery.com)
+

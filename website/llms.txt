@@ -5,7 +5,7 @@
 ## Pages
 
 - [Home / CRM Mastery](index.html): Main book landing page explaining advanced automation strategies for top agents.
-- [Quick Picks](quick_picks.html): Quick recommendations and picks for agents.
+
 - [Resources](resources.html): A hub for tools, guides, and insights to build better systems.
 - [Books](books.html): Details about the Real Estate CRM book series (Secrets and Mastery).
 - [Secrets](secrets.html): Tried-and-true strategies from 'Real Estate CRM Secrets'.
