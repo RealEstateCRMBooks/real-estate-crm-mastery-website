@@ -12,7 +12,7 @@
 - [Quotes](quotes.html): Wisdom and insights from Scott Schmitz on CRM mastery and systems.
 - [FAQ](faq.html): Frequently asked questions about CRM and the book series.
 - [Recommended Reading](recommended_reading.html): Curated list of books and resources for real estate success.
-- [Full Book Content](ai-content/ai-text.html): Full book text in Markdown for automated tools and research.
+- [Full Book Content](ai-content/html/ai-text.html): Full book text in Markdown for automated tools and research.
 - [About](about.html): About the author.
 - [Contact](contact.html): Contact form for inquiries.
 - [Newsletter](newsletter.html): Subscribe to the newsletter.
