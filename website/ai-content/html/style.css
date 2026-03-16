@@ -1,6 +1,8 @@
     html {
       color: #1a1a1a;
       background-color: #fdfdfd;
+      font-size: 1rem;
+      font-family: serif;
     }
 
     body {
@@ -16,17 +18,7 @@
       font-kerning: normal;
     }
 
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding-left: 10px;
-        padding-right: 10px;
-      }
 
-      h1 {
-        font-size: 1.8em;
-      }
-    }
 
     @media print {
       html {
@@ -53,17 +45,9 @@
       }
     }
 
-    p {
-      margin: 1em 0;
-    }
 
-    a {
-      color: #1a1a1a;
-    }
 
-    a:visited {
-      color: #1a1a1a;
-    }
+
 
     img {
       max-width: 100%;
@@ -74,24 +58,26 @@
       max-width: 100%;
     }
 
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      margin-top: 1.4em;
-    }
-
-    h5,
-    h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-
-    h6 {
+    p, b, strong, i, em, u, mark, h1, h2, h3, h4, h5, h6, blockquote, aside, a, code, pre, li, td, th, dt, dd, sub, sup, small, span {
+      font-size: 1rem;
       font-weight: normal;
+      font-style: normal;
+      margin: 1em 0;
+      text-decoration: none;
+      color: #1a1a1a;
+      border: none;
+      padding: 0;
+      font-family: serif;
+      line-height: 1.5;
+      background: transparent;
+      vertical-align: baseline;
     }
+
+
+
+
+
+
 
     ol,
     ul {
@@ -104,16 +90,9 @@
       margin-top: 0;
     }
 
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
+
 
     code {
-      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
-      font-size: 85%;
       margin: 0;
       hyphens: manual;
     }
@@ -171,7 +150,6 @@
 
     header {
       margin-bottom: 4em;
-      text-align: center;
     }
 
     #TOC li {
