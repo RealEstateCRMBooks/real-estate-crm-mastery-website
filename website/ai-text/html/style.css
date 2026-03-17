@@ -1,14 +1,42 @@
-html { color: #1a1a1a; background-color: #fff; font-size: 1rem; font-family: serif; }
-body { margin: 0; padding: 1rem; hyphens: auto; overflow-wrap: break-word; text-rendering: optimizeLegibility; font-kerning: normal; }
-p, b, strong, i, em, u, mark, h1, h2, h3, h4, h5, h6, blockquote, aside, a, code, pre, li, td, th, dt, dd, sub, sup, small, span {
-  font-size: 1rem; font-weight: normal; font-style: normal; margin: 0; padding: 0; line-height: 1.2; text-decoration: none; color: #1a1a1a; font-family: serif; border: none; background: transparent; vertical-align: baseline;
+/* AI Text Specific Un-styling */
+#ai-text-container {
+  padding: 1rem;
+  hyphens: auto; 
+  overflow-wrap: break-word; 
+  text-rendering: optimizeLegibility; 
+  font-kerning: normal;
+  background-color: #fff;
+  color: #1a1a1a;
+  font-family: serif;
 }
-ol, ul { padding: 0; margin: 0; list-style: none; }
-hr { border: none; height: 1px; margin: 0.5rem 0; }
-table { margin: 0.5rem 0; border-collapse: collapse; width: 100%; }
-th, td { padding: 0; text-align: left; }
-header, footer, section, nav, div, aside { margin: 0; padding: 0; border: none; }
-.important { margin: 1rem 0; }
-.download-link { margin: 1rem 0; text-align: center; }
-.btn { display: inline-block; padding: 0; border: none; background: transparent; text-decoration: underline; }
-code { white-space: pre-wrap; }
+
+#ai-text-container, #ai-text-container * {
+  font-size: 1rem !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.2 !important;
+  text-decoration: none !important;
+  color: #1a1a1a !important;
+  font-family: serif !important;
+  border: none !important;
+  background: transparent !important;
+  vertical-align: baseline !important;
+}
+
+#ai-text-container ol, #ai-text-container ul { padding: 0 !important; margin: 0 !important; list-style: none !important; }
+#ai-text-container hr { border: none !important; height: 1px !important; margin: 0.5rem 0 !important; }
+#ai-text-container table { margin: 0.5rem 0 !important; border-collapse: collapse !important; width: 100% !important; }
+#ai-text-container th, #ai-text-container td { padding: 0 !important; text-align: left !important; }
+
+#ai-text-container header, #ai-text-container footer, #ai-text-container section, 
+#ai-text-container nav, #ai-text-container div, #ai-text-container aside { 
+  margin: 0 !important; padding: 0 !important; border: none !important; 
+}
+
+#ai-text-container .important { margin: 1rem 0 !important; }
+#ai-text-container code { white-space: pre-wrap !important; }
+
+/* Keep the download link centered below the website sections */
+.download-link { margin: 2rem 0; text-align: center; }
