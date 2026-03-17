@@ -1,26 +1,14 @@
-    html { color: #1a1a1a; background-color: #fdfdfd; font-size: 1rem; font-family: serif; }
-    body { margin: 0; padding: 1rem; hyphens: auto; overflow-wrap: break-word; text-rendering: optimizeLegibility; font-kerning: normal; }
-    img { max-width: 100%; display: block; }
-    p, b, strong, i, em, u, mark, h1, h2, h3, h4, h5, h6, blockquote, aside, a, code, pre, li, td, th, dt, dd, sub, sup, small, span {
-      font-size: 1rem; font-weight: normal; font-style: normal; margin: 0; padding: 0; line-height: 1.2; text-decoration: none; color: #1a1a1a; font-family: serif; border: none; background: transparent; vertical-align: baseline;
-    }
-    ol, ul { padding: 0; margin: 0; list-style: none; }
-    hr { border: none; border-top: 1px solid #1a1a1a; height: 1px; margin: 0.5rem 0; }
-    table { margin: 0.5rem 0; border-collapse: collapse; width: 100%; display: block; }
-    tbody { border-top: 1px solid #1a1a1a; border-bottom: 1px solid #1a1a1a; }
-    th, td { padding: 0.2rem 0.5rem; text-align: left; }
-    header { margin-bottom: 1rem; }
-    .important { border: 2px solid #000; padding: 0.5rem; margin: 0.5rem 0; }
-    #TOC { margin-bottom: 1rem; }
-    .container { width: 100%; max-width: 1200px; margin: 0 auto; }
-    .site-header { display: flex; align-items: center; justify-content: space-between; padding: 0.5rem 0; border-bottom: 1px solid #ccc; }
-    .site-nav ul { display: flex; gap: 1rem; }
-    .site-nav a.active { font-weight: bold; }
-    .featured-book { padding: 1rem 0; border-bottom: 1px solid #eee; }
-    .book-container { display: flex; gap: 2rem; align-items: start; }
-    .book-cover-image { max-width: 150px; height: auto; }
-    .buy-actions-wrapper { display: flex; gap: 1rem; margin: 0.5rem 0; }
-    .btn { display: inline-block; padding: 0.3rem 0.8rem; border: 1px solid #333; border-radius: 3px; }
-    .btn-primary { background: #333; color: #fff; }
-    .download-link { margin: 1rem 0; font-weight: bold; }
-    code { white-space: pre-wrap; }
+html { color: #1a1a1a; background-color: #fff; font-size: 1rem; font-family: serif; }
+body { margin: 0; padding: 1rem; hyphens: auto; overflow-wrap: break-word; text-rendering: optimizeLegibility; font-kerning: normal; }
+p, b, strong, i, em, u, mark, h1, h2, h3, h4, h5, h6, blockquote, aside, a, code, pre, li, td, th, dt, dd, sub, sup, small, span {
+  font-size: 1rem; font-weight: normal; font-style: normal; margin: 0; padding: 0; line-height: 1.2; text-decoration: none; color: #1a1a1a; font-family: serif; border: none; background: transparent; vertical-align: baseline;
+}
+ol, ul { padding: 0; margin: 0; list-style: none; }
+hr { border: none; height: 1px; margin: 0.5rem 0; }
+table { margin: 0.5rem 0; border-collapse: collapse; width: 100%; }
+th, td { padding: 0; text-align: left; }
+header, footer, section, nav, div, aside { margin: 0; padding: 0; border: none; }
+.important { margin: 1rem 0; }
+.download-link { margin: 1rem 0; text-align: center; }
+.btn { display: inline-block; padding: 0; border: none; background: transparent; text-decoration: underline; }
+code { white-space: pre-wrap; }
