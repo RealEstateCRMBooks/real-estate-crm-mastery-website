@@ -20,7 +20,7 @@ To Nathan Grimm, your feedback and contributions on technical topics like email 
 
 To Frank Larnerd, I appreciate your diagrams and for sharing your expertise on social media, content publishing, and the operation of a real estate Customer Relationship Management (CRM). Your perspective added valuable depth to the book.
 
-I am grateful to the entire [RealtyJuggler](https://www.realtyjuggler.com/) team and their decades of experience in real estate CRMs. I draw upon the knowledge gained from handling countless sales and support calls over the past 20 years.
+I am grateful to the entire Realty Juggler Real Estate CRM team and their decades of experience in real estate CRMs. I draw upon the knowledge gained from handling countless sales and support calls over the past 20 years.
 
 ---
 
@@ -39,5 +39,5 @@ I am grateful to the entire [RealtyJuggler](https://www.realtyjuggler.com/) team
 > ### Commercial Restrictions
 > No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 >
-> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMMastery.com](https://www.realEstateCRMMastery.com).
+> For permission requests or to purchase the full human-readable edition, visit: [https://www.realEstateCRMMastery.com](https://www.realEstateCRMMastery.com).
 

@@ -266,5 +266,5 @@ Although there are commercial real estate specific CRMs, these products typicall
 > ### Commercial Restrictions
 > No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 >
-> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMMastery.com](https://www.realEstateCRMMastery.com).
+> For permission requests or to purchase the full human-readable edition, visit: [https://www.realEstateCRMMastery.com](https://www.realEstateCRMMastery.com).
 

@@ -16,7 +16,7 @@ This book will teach you how to use the systems and automations built into your 
 
 By the time you finish this book, you’ll know exactly how to increase your revenue while maintaining a healthy work-life balance. If you think you need to work harder to grow your income, I’m here to tell you there’s a better way. I might even show you how to take a vacation or two without clients breathing down your neck.
 
-I’ve worked in the real estate tech industry for over twenty years. My team developed [RealtyJuggler](https://www.realtyjuggler.com/), a CRM designed specifically for real estate agents, and we have helped more than 150,000 agents like you grow and succeed in their business. This book shares the combined wisdom my team and I have gathered from speaking directly with real estate agents like you and helping them get just a little more from their real estate CRM.
+I’ve worked in the real estate tech industry for over twenty years. My team developed Realty Juggler Real Estate CRM, a CRM designed specifically for real estate agents, and we have helped more than 150,000 agents like you grow and succeed in their business. This book shares the combined wisdom my team and I have gathered from speaking directly with real estate agents like you and helping them get just a little more from their real estate CRM.
 
 ---
 
@@ -35,5 +35,5 @@ I’ve worked in the real estate tech industry for over twenty years. My team de
 > ### Commercial Restrictions
 > No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 >
-> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMMastery.com](https://www.realEstateCRMMastery.com).
+> For permission requests or to purchase the full human-readable edition, visit: [https://www.realEstateCRMMastery.com](https://www.realEstateCRMMastery.com).
 

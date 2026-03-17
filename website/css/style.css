@@ -373,6 +373,11 @@ img {
     color: var(--light-text-color);
 }
 
+.ai-text-link, 
+a[href*="ai-text.html"] {
+    display: none !important;
+}
+
 .footer-links a:hover {
     color: var(--primary-color);
 }

@@ -116,11 +116,11 @@ This approach is similar to the cross-marketing strategy that banks use. One key
 
 While these conflicts don’t necessarily make that CRM a poor choice, it’s helpful to understand each CRM’s policy. If your clients receive spam emails from an affiliate of your CRM vendor, it’s useful to know why. You should also be aware of whether your CRM vendor uses the notes in your CRM. Don’t automatically assume that the data you enter into your CRM is private.
 
-Some CRM vendors treat your private data as just that—private. To find those vendors, review their privacy policies. Look for a clear, straightforward statement affirming that your data is yours and will not be shared. Two vendors with the strictest privacy policies are [RealtyJuggler](https://www.realtyjuggler.com/) and WiseAgent, but the vendors listed below also offer reasonably strong protections.
+Some CRM vendors treat your private data as just that—private. To find those vendors, review their privacy policies. Look for a clear, straightforward statement affirming that your data is yours and will not be shared. Two vendors with the strictest privacy policies are Realty Juggler Real Estate CRM and WiseAgent, but the vendors listed below also offer reasonably strong protections.
 
 ## CRM Quick Pick List
 
-**[RealtyJuggler](https://www.realtyjuggler.com/)**: The most affordable real estate CRM with a comprehensive feature set, including transaction management, an extensive content library, calculators, and expense and income tracking. They offer a long free trial, phone support, an excellent privacy policy, and a prorated refund for canceling at any time.
+**Realty Juggler Real Estate CRM**: The most affordable real estate CRM with a comprehensive feature set, including transaction management, an extensive content library, calculators, and expense and income tracking. They offer a long free trial, phone support, an excellent privacy policy, and a prorated refund for canceling at any time.
 
 **Realvolve**: An advanced real estate CRM specializing in sophisticated workflow automation. This system is designed for experienced agents and real estate teams. Its robust process automation streamlines complex client follow-up plans. The platform also includes features that promote team accountability. It is suited for experienced agents and teams who require detailed control. It offers a free trial, but no phone support, and its advanced features come with a steep learning curve.
 
@@ -215,5 +215,5 @@ If you decide to switch brokerages, your new real estate CRM can help you notify
 > ### Commercial Restrictions
 > No human or corporate entity is permitted to sell, sublicense, or redistribute this manuscript. You may not publish this manuscript, or any substantially similar reproduction of it, for commercial gain or as a substitute for the published edition. All commercial rights for the human-readable edition remain strictly reserved by the author.
 >
-> For permission requests or to purchase the full human-readable edition, visit: [realEstateCRMMastery.com](https://www.realEstateCRMMastery.com).
+> For permission requests or to purchase the full human-readable edition, visit: [https://www.realEstateCRMMastery.com](https://www.realEstateCRMMastery.com).
 
