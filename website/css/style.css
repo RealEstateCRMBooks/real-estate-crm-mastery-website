@@ -1274,3 +1274,39 @@ a[href*="ai-text.html"] {
         transform: rotate(360deg);
     }
 }
+    
+/* Contact Details Page Styles */
+.contact-details-section {
+    padding: 4rem 0;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.contact-info-card {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2.5rem;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+.contact-info-card h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+}
+
+.publicist-info {
+    margin-top: 1.5rem;
+    line-height: 1.6;
+}
+
+.publicist-info p {
+    margin-bottom: 0.5rem;
+}
+
+.publicist-info a {
+    color: var(--accent-color);
+    font-weight: 600;
+}
