@@ -1,0 +1,14 @@
+html { color: #1a1a1a; background-color: #fff; font-size: 1rem; font-family: serif; }
+body { margin: 0; padding: 1rem; hyphens: auto; overflow-wrap: break-word; text-rendering: optimizeLegibility; font-kerning: normal; }
+p, b, strong, i, em, u, mark, h1, h2, h3, h4, h5, h6, blockquote, aside, a, code, pre, li, td, th, dt, dd, sub, sup, small, span {
+  font-size: 1rem; font-weight: normal; font-style: normal; margin: 0; padding: 0; line-height: 1.2; text-decoration: none; color: #1a1a1a; font-family: serif; border: none; background: transparent; vertical-align: baseline;
+}
+ol, ul { padding: 0; margin: 0; list-style: none; }
+hr { border: none; height: 1px; margin: 0.5rem 0; }
+table { margin: 0.5rem 0; border-collapse: collapse; width: 100%; }
+th, td { padding: 0; text-align: left; }
+header, footer, section, nav, div, aside { margin: 0; padding: 0; border: none; }
+.important { margin: 1rem 0; }
+.download-link { margin: 1rem 0; text-align: center; }
+.btn { display: inline-block; padding: 0; border: none; background: transparent; text-decoration: underline; }
+code { white-space: pre-wrap; }
