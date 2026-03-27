@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Dedication
+# Chapter 1: Dedication
 
 *To my team at Realty Juggler Real Estate CRM. Without your help, this book would not be possible.*
 

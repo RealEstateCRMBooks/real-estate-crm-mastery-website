@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Finding Your Perfect CRM
+# Chapter 4: Finding Your Perfect CRM
 
 ##### “Many new agents complain about working too hard, not having enough free time, and not making enough money. This process of automating your business is crucial for agents who want to make the leap from sole proprietor to business owner. It cannot be done without systems.”
 
@@ -186,7 +186,7 @@ Reputable CRM vendors export data in a standard format, usually a variation of t
 
 If you decide to switch brokerages, your new real estate CRM can help you notify people in your database of your move. You should personally reach out to past clients and anyone who has recently referred you. For everyone else, send a multichannel announcement via postcards, email, and SMS. If you were using a brokerage-provided email address, plan this transition carefully. It’s crucial to update your contact information across all platforms. This announcement not only informs people of your move but also helps clean up your database.
 
-### Endnotes
+## Endnotes
 
 [^1]: According to Realty Times (citing a National Association of Realtors (NAR) report), 59% of real estate agents use some form of CRM, while 87% of top-performing (top 10% earnings) agents use a CRM.
 [^2]: Technology research firms like Gartner have consistently reported that low user adoption of advanced features is a primary reason why CRM initiatives fail to deliver their full potential ROI.

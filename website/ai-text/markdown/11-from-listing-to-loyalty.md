@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# From Listing to Loyalty
+# Chapter 11: From Listing to Loyalty
 
 ##### “Great agents know that their job isn’t over when the transaction closes. After you’ve achieved the sale, closed the deal, cashed the commission check, and spent the money, it’s time to start fortifying your client relationship.”
 
@@ -192,7 +192,7 @@ If your client has questions about their new home, such as what a mysterious lig
 
 The best time to secure future business is when your client is happy and settled in their new home. You should delay the direct ask for new business until you visit them a few weeks after closing, once they have had a chance to settle in. When you stop by, make a direct, confident ask for referrals and online reviews. Say that the highest compliment they can give is entrusting you with the business of their friends and family. Explain that you keep your business strong through client referrals like theirs. Then send a direct link to your preferred review sites via text or email, and note the request in their CRM contact record. By timing the request for maximum appreciation, you turn a happy client into an immediate, active source of new leads. I do not recommend asking every former client for a review. Not every client will be thrilled with how things went, and you should only ask people to leave a review if you are confident they had a positive experience.
 
-### Endnotes
+## Endnotes
 
 [^53]: Research in sensory marketing shows that engaging multiple senses, particularly smell, strengthens emotional connection and recall. Martin Lindstrom’s book *Brand Sense* draws on an extensive global study conducted by Millward Brown that illustrates how brands can use all five senses—including scent—to create a greater impact. Other academic work confirms that odors influence behavior, cognition, and emotion by activating brain pathways that enhance memory. For example, studies have shown that people remember scented products—such as pencils—far better than unscented ones, even weeks later.
 

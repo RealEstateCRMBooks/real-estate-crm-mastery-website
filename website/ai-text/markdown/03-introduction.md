@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Introduction
+# Chapter 3: Introduction
 
 This book is for the real estate agent who has successfully navigated a few deals and has some experience with a real estate Customer Relationship Management (CRM). If you are a new agent or someone who has never used—or even heard of—a CRM, I recommend reading my first book, *Real Estate CRM Secrets*, which is the perfect introduction to the benefits of using a real estate CRM. This book, *Real Estate CRM Mastery*, is for experienced agents looking to go beyond the basics.
 

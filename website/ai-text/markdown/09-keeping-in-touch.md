@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Keeping In Touch
+# Chapter 9: Keeping In Touch
 
 ##### “One of the drawbacks of most real estate schools is they teach you only how to pass the real estate exam. They don’t teach you how to succeed as a Real Estate Agent once you get your license.”
 
@@ -206,7 +206,7 @@ While new agents spend much of their time trying to get in front of prospects, e
 
 While traditional face-to-face meetings are a hallmark of the real estate industry, you can leverage technology to expand your business beyond the limits of physical presence. This includes virtual consultations and tours. Successful growth also often involves delegation and team building. You can hire administrative staff to handle paperwork and transaction coordinators to manage deal flow. You can also utilize buyer’s agents to conduct in-person showings. Maintaining a balanced approach that includes in-person meetings lets you maximize the advantages of direct contact while reducing the inefficiencies that can come with relying solely on face-to-face interactions.
 
-### Endnotes
+## Endnotes
 
 [^44]: According to a Statista projection, spam emails accounted for approximately 48% of global email traffic in 2024, a notable decline from the 80% levels observed about a decade earlier. Still, that means nearly one in two emails remain junk.
 [^45]: According to MailChimp, a reasonable spam complaint rate is below 1 complaint per 1,000 emails. A rate higher than this can damage your sender reputation and cause deliverability problems, increasing the chance that your emails will go to spam folders.

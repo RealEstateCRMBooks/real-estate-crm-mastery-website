@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# REAL ESTATE CRM MASTERY
+# AI Text
 
 > [!IMPORTANT]
 > [Download the Markdown as a zip](markdown.zip)

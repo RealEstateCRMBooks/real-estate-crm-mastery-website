@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Special Occasions
+# Chapter 10: Special Occasions
 
 ##### “Choose a reasonable number of people to actually speak with by phone or in person daily from your database. Five or fewer is recommended, though you’ll need to dial a larger number to make those five real contacts.”
 
@@ -152,7 +152,7 @@ This event-based system is especially important for agents with a large, establi
 
 Ultimately, client appreciation events are the most effective and enjoyable way to activate your database. They give back to your community, build strong social proof of your success, and create a low-pressure environment for requesting reviews and referrals. By using your CRM to organize, promote, track, and follow up, you are building a repeatable, predictable system that generates long-term loyalty and referrals, fueling your business for years to come.
 
-### Endnotes
+## Endnotes
 
 [^51]: The 9% figure is widely cited in real estate industry blogs and coaching materials. This figure should be understood as an industry-accepted approximation rather than a rigorously documented statistic.
 [^52]: In the experiment, Dr. Kunz and his family sent Christmas cards to 578 strangers. They received about 117 cards in return, many with personal notes and photos, showing a strong, automatic human tendency to return favors, even to strangers. Kunz, P. R., & Woolcott, M. (1976). “*Season’s Greetings: From My Status to Yours”*. Social Science Research, 5(3), 269–278.

@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Conclusion
+# Chapter 12: Conclusion
 
 As a real estate agent, your database is your most valuable business asset. Your CRM helps you keep an up-to-date, unified address book that syncs with your smartphone. To maintain accuracy, use your CRM regularly.
 

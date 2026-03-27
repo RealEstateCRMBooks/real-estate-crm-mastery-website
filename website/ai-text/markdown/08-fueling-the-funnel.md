@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Fueling the Funnel
+# Chapter 8: Fueling the Funnel
 
 ##### “The brutal fact is the number one reason for failure in sales is an empty pipe, and the root cause of an empty pipeline is the failure to prospect.”
 
@@ -306,7 +306,7 @@ You should add the category “Top100” to people who consistently refer others
 
 Your database of recommended vendors is a valuable resource. You might find that a past client calls you for your recommendations when they are ready to start a home improvement project. You can establish yourself as a trusted local expert, and your advice will be highly valued and sought after. By providing these vendor recommendations, you are building social capital. People will reciprocate by providing you with leads and referrals for buyers and sellers[^43].
 
-### Endnotes
+## Endnotes
 
 [^34]: “.realtor” domains are restricted to National Association of Realtors (NAR) and Canadian Real Estate Association (CREA) members and affiliated organizations.
 [^35]: Google Workspace supports professional email using your own domain.

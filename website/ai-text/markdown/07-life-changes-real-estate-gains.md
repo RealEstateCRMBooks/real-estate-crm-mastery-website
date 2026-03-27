@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Life Changes, Real Estate Gains
+# Chapter 7: Life Changes, Real Estate Gains
 
 ##### “The first agent to call back and act as if they want the buyer’s or seller’s business will get the buyer’s or seller’s business. In my first year, this was a huge factor in my success. I was always the first agent to call back and was always cheerfully ready and willing to show the buyer whatever he or she wanted to see.”
 
@@ -228,7 +228,7 @@ Some homes may be unshowable due to pet issues. These issues may include a large
 
 When you first meet with a client, take time to get to know the entire family, including the pets. Ask about their needs. If the pets like you, you’ve passed a key test. If they don’t, you probably won’t get hired by the owners. Pets are a pretty good judge of character, after all!
 
-### Endnotes
+## Endnotes
 
 [^24]: A 2013 national survey conducted by Harris Interactive on behalf of Coldwell Banker Real Estate LLC, titled “*Marriage and Homebuying Study”*, revealed a significant "velocity of purchase" among newlywed couples. The research found that 35% of married couples transitioned from renting to owning their first home together by their second wedding anniversary. For real estate professionals and financial planners, this identifies a critical two-year window where couples are most likely to make their largest lifetime purchase, often prioritizing homeownership as the foundational step of their "married life" timeline.
 [^25]: According to the Worldwide Employee Relocation Council (ERC)  in their “*2024-2025 Workforce Mobility Survey”*, approximately 64% of corporate job transfers include a formalized relocation assistance package. This highlights a critical opportunity for real estate professionals and service providers.

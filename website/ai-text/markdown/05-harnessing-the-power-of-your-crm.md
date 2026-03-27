@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Harnessing the Power of Your CRM
+# Chapter 5: Harnessing the Power of Your CRM
 
 ##### “Okay, so I have to recognize that the business I have now, the leads in the pipeline, the listings in the pipeline, the buyer leads I have, they should pretty much all be converted in a 90-day cycle. Convert them or throw them away.”
 
@@ -324,7 +324,7 @@ Teams where each agent is independent-minded are more likely to prefer the first
 
 No matter what type of partnership you choose, it requires time and effort. The most common challenge is personality conflicts with your partner. One of the simplest ways to address this is to use your real estate CRM to clearly organize roles, commission distribution, and tasks. Being a solo real estate agent can be very stressful; working with a partner can significantly reduce that stress.
 
-### Endnotes
+## Endnotes
 
 [^10]: Real estate marketing-tech provider SMS Listings reports a 314% increase in responses when a “text or call for info” rider was added to a standard yard sign. Proquest reports an increased response rate of 75%.
 [^11]: “Email feed” is commonly implemented by sending form notifications to a parsing address, which creates a record in your CRM.

@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# From Generalist to Specialist
+# Chapter 6: From Generalist to Specialist
 
 ##### “So why is it that Specialists work far less and earn far more? Because they are sought out, in demand, and relevant.”
 
@@ -242,7 +242,7 @@ Unlike residential real estate, commercial brokerage relies heavily on an intens
 
 Although there are commercial real estate specific CRMs, these products typically offer fewer features than those designed for residential agents. Prices for commercial CRMs are also significantly higher. For these reasons, it is not unusual for commercial agents to use a CRM primarily dedicated to residential real estate for their commercial business.
 
-### Endnotes
+## Endnotes
 
 [^20]: According to the “*2025 Profile of Home Buyers and Sellers”* by the National Association of Realtors (NAR) and supplemental 2026 analysis from Redfin, the median homeowner tenure reached a peak of approximately 12 years. In contrast, private and institutional investment hold times typically remain between 3 and 5 years, depending on the asset class and market conditions.
 [^21]: Section 1031 of the U.S. Internal Revenue Code allows an investor to defer paying capital gains taxes on the sale of an investment property by reinvesting the proceeds into a new, like-kind property within a specified timeframe.

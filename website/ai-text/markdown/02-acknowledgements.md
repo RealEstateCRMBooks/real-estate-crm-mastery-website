@@ -6,7 +6,7 @@ author: Scott Schmitz
 website: realEstateCRMMastery.com
 ---
 
-# Acknowledgements
+# Chapter 2: Acknowledgements
 
 Writing this book proved more challenging than I expected, and I am deeply thankful to those who made it possible.
 
