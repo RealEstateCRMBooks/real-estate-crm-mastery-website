@@ -8,9 +8,6 @@ website: realEstateCRMMastery.com
 
 # AI Text
 
-> [!IMPORTANT]
-> [Download the Markdown as a zip](markdown.zip)
-
 ## Table of Contents
 
 - [Dedication](./01-dedication.html)
