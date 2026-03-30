@@ -1215,8 +1215,8 @@ a[href*="ai-text.html"] {
 .faq-item {
     background: white;
     border-radius: 8px;
-    margin-bottom: 1.25rem;
-    padding: 1.5rem;
+    margin-bottom: 0.75rem;
+    padding: 1rem 1.25rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
     border: 1px solid var(--border-color);
 }
@@ -1227,7 +1227,7 @@ a[href*="ai-text.html"] {
     font-size: 1.25rem;
     color: var(--primary-color);
     margin-top: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 .faq-answer {
