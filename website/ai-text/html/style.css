@@ -1,6 +1,7 @@
 /* AI Text Specific Un-styling */
 #ai-text-container {
-  padding: 1rem;
+  padding: 1rem !important;
+  margin: 1rem 20px !important;
   hyphens: auto; 
   overflow-wrap: break-word; 
   text-rendering: optimizeLegibility; 
@@ -10,7 +11,7 @@
   font-family: serif;
 }
 
-#ai-text-container, #ai-text-container * {
+#ai-text-container * {
   font-size: 1rem !important;
   font-weight: normal !important;
   font-style: normal !important;
