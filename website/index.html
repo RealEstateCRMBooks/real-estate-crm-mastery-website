@@ -37,18 +37,14 @@
         <link rel="stylesheet" href="css/style.css">
     </noscript>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
-    <!-- Google Fonts: preconnect + load with display=optional to prevent font-swap CLS -->
+    <!-- Google Fonts: preconnect + preload to prevent FOUT and reduce CLS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <!-- display=optional: browser uses fallback if font isn't ready, preventing reflow -->
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=optional"
-        rel="stylesheet" media="print" onload="this.media='all'">
-    <noscript>
-        <link
-            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=optional"
-            rel="stylesheet">
-    </noscript>
+    <!-- Preload the CSS so the browser fetches it in parallel; display=swap shows fallback text immediately -->
+    <link rel="preload" as="style"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
