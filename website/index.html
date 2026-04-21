@@ -29,13 +29,17 @@
     <meta name="twitter:description" content="This book teaches experienced real estate agents how to build advanced systems and automate their business to dominate their market. Available on Amazon.">
     <meta name="twitter:image" content="https://realestatecrmmastery.com/images/BookCoverMastery.jpg">
     <meta name="twitter:site" content="@realtyjuggler">
-    <link rel="stylesheet" href="css/style.css">
+    <!-- Defer main stylesheet to avoid render-blocking -->
+    <link rel="stylesheet" href="css/style.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="css/style.css"></noscript>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <!-- Defer Google Fonts to avoid network-chain render-blocking -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap"
-        rel="stylesheet">
+        rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap" rel="stylesheet"></noscript>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -113,7 +117,7 @@
                 <div class="book-container">
                     <div class="book-cover">
                         <img src="images/BookCoverMastery.jpg" alt="Real Estate CRM Mastery Book Cover"
-                            class="book-cover-image" width="3350" height="5250">
+                            class="book-cover-image" width="3350" height="5250" fetchpriority="high">
                     </div>
                     <div class="book-details">
 
