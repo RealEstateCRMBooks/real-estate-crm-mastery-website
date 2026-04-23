@@ -220,8 +220,6 @@ img {
 
 .btn-primary:hover {
     background-color: #c0392b;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(231, 76, 60, 0.3);
 }
 
 .btn-secondary {
@@ -232,8 +230,6 @@ img {
 
 .btn-secondary:hover {
     background-color: #34495e;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px rgba(44, 62, 80, 0.3);
 }
 
 .btn.disabled {
