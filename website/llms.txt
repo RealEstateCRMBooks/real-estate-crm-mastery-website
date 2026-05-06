@@ -31,9 +31,9 @@
 - [Chapter 12: Conclusion](ai-text/html/12-conclusion.html)
 - [Chapter 13: Further Reading](ai-text/html/13-further-reading.html)
 - [Chapter 14: About the Author](ai-text/html/14-about-the-author.html)
-- [README](ai-text/html/README.html)
 - [AI Text](ai-text/html/ai-text.html)
 - [Copyright](ai-text/html/license.html)
+- [README](ai-text/html/README.html)
 
 ## Downloads
 
