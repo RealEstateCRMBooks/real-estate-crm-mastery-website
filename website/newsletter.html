@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; script-src 'self'; img-src 'self' https:; frame-ancestors 'self'">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Join the Real Estate Systems Newsletter - Expert CRM Insights</title>
+    <meta name="description"
+        content="Sign up for Scott Schmitz's newsletter to receive regular insights, tips, and strategies for mastering your real estate CRM and building better systems for your business.">
+    <link rel="canonical" href="https://RealEstateCRMSecrets.com/newsletter" />
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Preload the CSS so the browser fetches it in parallel; display=swap shows fallback text immediately -->
+    <link rel="preload" as="style"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap">
+</head>
+
+<body>
+
+    <header class="site-header">
+        <div class="container header-container">
+            <nav class="site-nav">
+                <ul>
+                    <li><a href="https://www.RealEstateCRMSecrets.com">CRM Secrets</a></li>
+                    <li><a href="https://www.realestatecrmmastery.com">CRM Mastery</a></li>
+
+                    <li><a href="https://www.RealEstateCRMSecrets.com/resources">Secret Resources</a></li>
+                    <li><a href="https://www.realestatecrmmastery.com/resources">Mastery Resources</a></li>
+                    <li><a href="about">About</a></li>
+                </ul>
+            </nav>
+            <button class="mobile-menu-toggle" aria-label="Toggle navigation">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero-section squeeze-hero">
+            <div class="container hero-container">
+                <div class="hero-content">
+                    <h1>Join the <span class="highlight-text">Newsletter</span></h1>
+                </div>
+
+                <div class="hero-visual squeeze-form-container">
+                    <div class="jotform-wrapper">
+                        <div class="jotform-loader"></div>
+                        <script type="text/javascript" src="https://form.jotform.com/jsform/260625615215149"></script>
+                        <p class="form-disclaimer"
+                            style="font-size: 0.8em; text-align: center; margin-top: 10px; opacity: 0.8;">By submitting
+                            this form, you give us permission to add you to our newsletter email list and agree to our
+                            <a href="privacy">Privacy</a>.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2026 Scott Schmitz. <a href="terms">Terms</a><br>Website designed by William Schmitz.</p>
+            <div class="footer-links">
+                <a href="newsletter">Newsletter</a>
+                <a href="contact">Contact</a>
+                <a href="faq">FAQ</a>
+                <a href="privacy">Privacy</a>
+                <a href="terms">Terms</a>
+                <a href="ai-text/">AI Text</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script>
+        // Listen for Jotform iframe messages
+        window.addEventListener('message', function (e) {
+            if (e.origin.includes('jotform')) {
+                document.querySelectorAll('.jotform-loader').forEach(loader => {
+                    loader.style.display = 'none';
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>
