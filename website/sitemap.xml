@@ -87,8 +87,14 @@
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
-                                                                                                                                                                                                                                                                                                                                                      <url>
-      <loc>https://realestatecrmmastery.com/ai-text/index.html</loc>
+   <url>
+      <loc>https://realestatecrmmastery.com/downloadables/Real_Estate_CRM_Mastery_Full.md</loc>
+      <lastmod>2026-07-29</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.4</priority>
+   </url>
+      <url>
+      <loc>https://realestatecrmmastery.com/ai-text/html/ai-text.html</loc>
       <lastmod>2026-07-29</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.4</priority>

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://realestatecrmmastery.com/sitemap.xml
+License: https://realestatecrmmastery.com/ai-license.xml
